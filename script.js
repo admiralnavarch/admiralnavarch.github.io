@@ -1,1 +1,1041 @@
-const _0x1d838c=_0x3397;(function(_0x492ffd,_0x5aa0ac){const _0x38628f=_0x3397,_0x4a9a37=_0x492ffd();while(!![]){try{const _0x280ccf=-parseInt(_0x38628f(0x294))/0x1*(parseInt(_0x38628f(0x2c2))/0x2)+-parseInt(_0x38628f(0x276))/0x3+parseInt(_0x38628f(0x192))/0x4+-parseInt(_0x38628f(0x22d))/0x5+-parseInt(_0x38628f(0x2a2))/0x6+-parseInt(_0x38628f(0x282))/0x7+-parseInt(_0x38628f(0x249))/0x8*(-parseInt(_0x38628f(0x240))/0x9);if(_0x280ccf===_0x5aa0ac)break;else _0x4a9a37['push'](_0x4a9a37['shift']());}catch(_0x40f49b){_0x4a9a37['push'](_0x4a9a37['shift']());}}}(_0x5e48,0xba2e8));const CONFIG={'seal':{'title':_0x1d838c(0x264),'subtitle':_0x1d838c(0x250),'hint':_0x1d838c(0x1db),'warning':'UNAUTHORIZED\x20ACCESS\x20IS\x20A\x20FEDERAL\x20OFFENSE','starCount':0xd},'bootLines':[{'text':_0x1d838c(0x1e6),'cls':_0x1d838c(0x2ea)},{'text':_0x1d838c(0x28a),'cls':_0x1d838c(0x22f)},'','CPU\x20\x20:\x20QUAD-CORE\x20SECURE\x20ENCLAVE\x20@\x203.9GHz',_0x1d838c(0x29f),_0x1d838c(0x1ab),'',_0x1d838c(0x2b6),'DISK\x201\x20\x20:\x20ARCHIVE\x20VOLUME\x20\x20\x202.0TB\x20\x20[OFFLINE]',_0x1d838c(0x21b),{'text':_0x1d838c(0x186)+PUZZLE_ANSWERS[_0x1d838c(0x247)],'cls':_0x1d838c(0x22f)},'',{'text':'RUNNING\x20INTEGRITY\x20CHECK...','cls':'accent'},{'text':_0x1d838c(0x1ea),'cls':_0x1d838c(0x2ea),'holdAfter':0x4b0},{'text':_0x1d838c(0x2c5),'cls':_0x1d838c(0x2ea),'holdAfter':0x2bc}],'icons':[{'glyph':'▣','label':_0x1d838c(0x23f),'app':_0x1d838c(0x29a)},{'glyph':'▶','label':_0x1d838c(0x27b),'app':'cmd'},{'glyph':'✎','label':_0x1d838c(0x213),'app':_0x1d838c(0x1a3)},{'glyph':'⟟','label':_0x1d838c(0x1a9),'app':'satcom'},{'glyph':'◐','label':_0x1d838c(0x2ca),'app':_0x1d838c(0x2c4)},{'glyph':'▲','label':_0x1d838c(0x1c9),'app':_0x1d838c(0x1a2)},{'glyph':'▦','label':_0x1d838c(0x1e7),'app':_0x1d838c(0x2e1)},{'glyph':'◈','label':_0x1d838c(0x191),'app':_0x1d838c(0x237),'hidden':!![]}],'notes':[{'color':'yellow','top':0x28,'left':_0x1d838c(0x1fb),'stamp':_0x1d838c(0x253),'lines':[[{'cipher':PUZZLE_ANSWERS[_0x1d838c(0x2ce)]}],'field\x20designation\x20—\x20decode\x20the\x20shift']},{'color':_0x1d838c(0x23b),'top':0x28,'left':_0x1d838c(0x280),'stamp':_0x1d838c(0x204),'lines':[_0x1d838c(0x1f7),'than\x20location\x20—',_0x1d838c(0x22a)]},{'color':_0x1d838c(0x23b),'top':0x82,'left':_0x1d838c(0x1fb),'stamp':_0x1d838c(0x201),'lines':[_0x1d838c(0x199),_0x1d838c(0x228)]},{'color':_0x1d838c(0x23b),'top':0x82,'left':_0x1d838c(0x280),'stamp':'SUM','lines':[_0x1d838c(0x29d),_0x1d838c(0x1ec),_0x1d838c(0x273)]},{'color':_0x1d838c(0x23b),'top':0xfa,'left':_0x1d838c(0x1e0),'stamp':null,'lines':[[{'redact':_0x1d838c(0x27c)},_0x1d838c(0x18b)],'pending\x20review',[_0x1d838c(0x1bb),{'redact':'███████'}]]}],'apps':{'mypc':{'title':'MY\x20COMPUTER','width':0x190,'height':0x12c,'drives':[{'glyph':'▣','label':_0x1d838c(0x1c6),'info':_0x1d838c(0x19c),'used':0x4d},{'glyph':'▤','label':_0x1d838c(0x2ae),'info':_0x1d838c(0x2b7),'used':0x0},{'glyph':'▥','label':_0x1d838c(0x233),'info':_0x1d838c(0x263)+PUZZLE_ANSWERS[_0x1d838c(0x2c1)],'used':0x22}]},'cmd':{'title':_0x1d838c(0x2e2),'width':0x1e0,'height':0x140,'prompt':_0x1d838c(0x209),'banner':_0x1d838c(0x268)},'notepad':{'title':_0x1d838c(0x28c),'width':0x1a4,'height':0x140,'placeholder':_0x1d838c(0x21c),'content':''},'imgview':{'title':_0x1d838c(0x2a7),'width':0x154,'height':0x140},'satcom':{'title':_0x1d838c(0x1b2),'width':0x168,'height':0x104},'paint':{'title':'PAINT','width':0x1b8,'height':0x17c},'snake':{'title':'SNAKE.EXE','width':0x12c,'height':0x168},'calc':{'title':_0x1d838c(0x226),'width':0xf0,'height':0x140}},'taskbarClock':null,'use24hClock':![],'timing':{'bootLineDelay':0xaa,'postBootHold':0x384,'glitchDuration':0x190},'puzzle':PUZZLE_ANSWERS},sealScreen=document[_0x1d838c(0x278)]('seal-screen'),bootScreen=document[_0x1d838c(0x278)](_0x1d838c(0x1bd)),bootLinesEl=document[_0x1d838c(0x278)](_0x1d838c(0x190)),desktop=document['getElementById'](_0x1d838c(0x243)),windowsLayer=document[_0x1d838c(0x278)](_0x1d838c(0x1d0)),taskbarApps=document[_0x1d838c(0x278)](_0x1d838c(0x1cb)),toastLayer=document[_0x1d838c(0x278)]('toast-layer'),finaleFlash=document[_0x1d838c(0x278)]('finale-flash');function _0x3397(_0x409bd7,_0x2781a6){_0x409bd7=_0x409bd7-0x182;const _0x5e4881=_0x5e48();let _0x3397e7=_0x5e4881[_0x409bd7];return _0x3397e7;}document[_0x1d838c(0x278)]('seal-title')[_0x1d838c(0x1b8)]=CONFIG[_0x1d838c(0x23e)][_0x1d838c(0x2d9)],document[_0x1d838c(0x278)](_0x1d838c(0x289))['textContent']=CONFIG[_0x1d838c(0x23e)][_0x1d838c(0x1e3)],document[_0x1d838c(0x278)](_0x1d838c(0x18f))[_0x1d838c(0x1b8)]=CONFIG[_0x1d838c(0x23e)]['hint'],document['getElementById'](_0x1d838c(0x2c0))[_0x1d838c(0x1b8)]=CONFIG['seal'][_0x1d838c(0x1c8)];let sequenceRunning=![],zCounter=0x64,openWindowCount=0x0,puzzleSolved=![];(function drawStarRing(){const _0x414c14=_0x1d838c,_0x639759=document[_0x414c14(0x278)](_0x414c14(0x292)),_0x4002f9=CONFIG[_0x414c14(0x23e)]['starCount'],_0x55c65a=0x52;for(let _0xf2efe6=0x0;_0xf2efe6<_0x4002f9;_0xf2efe6++){const _0x8df999=_0xf2efe6/_0x4002f9*Math['PI']*0x2-Math['PI']/0x2,_0x2ceec7=0x78+_0x55c65a*Math[_0x414c14(0x1b4)](_0x8df999),_0x1b7520=0x78+_0x55c65a*Math[_0x414c14(0x1c0)](_0x8df999),_0x22f10d=document[_0x414c14(0x25e)](_0x414c14(0x2c8),_0x414c14(0x2a1));_0x22f10d[_0x414c14(0x270)]('cx',_0x2ceec7['toFixed'](0x2)),_0x22f10d[_0x414c14(0x270)]('cy',_0x1b7520['toFixed'](0x2)),_0x22f10d[_0x414c14(0x270)]('r',1.6),_0x639759[_0x414c14(0x212)](_0x22f10d);}}());function startSequence(){const _0x12ccd7=_0x1d838c;if(sequenceRunning)return;sequenceRunning=!![],sealScreen['classList'][_0x12ccd7(0x1e5)](_0x12ccd7(0x238)),setTimeout(()=>sealScreen[_0x12ccd7(0x2ed)][_0x12ccd7(0x1e5)]('hidden'),CONFIG[_0x12ccd7(0x25a)][_0x12ccd7(0x1b7)]-0x64),setTimeout(()=>{const _0x1cb7bb=_0x12ccd7;sealScreen['style']['display']=_0x1cb7bb(0x1e1),runBoot();},CONFIG[_0x12ccd7(0x25a)][_0x12ccd7(0x1b7)]+0x12c);}function runBoot(){const _0x2b9c1a=_0x1d838c;bootLinesEl['innerHTML']='',bootScreen[_0x2b9c1a(0x2ed)][_0x2b9c1a(0x1e5)](_0x2b9c1a(0x21e));let _0xc73a41=0x0;CONFIG[_0x2b9c1a(0x1cc)]['forEach'](_0x19302e=>{const _0x68b7ec=_0x2b9c1a,_0x168c42=typeof _0x19302e==='object',_0x21427d=_0x168c42?_0x19302e['text']:_0x19302e,_0x2b8283=_0x168c42&&_0x19302e[_0x68b7ec(0x2c6)]?_0x19302e[_0x68b7ec(0x2c6)]:'',_0x564dd6=_0x168c42&&_0x19302e[_0x68b7ec(0x2a0)]?_0x19302e[_0x68b7ec(0x2a0)]:0x0,_0x2682a2=document[_0x68b7ec(0x208)](_0x68b7ec(0x1d1));_0x2682a2[_0x68b7ec(0x1b8)]=_0x21427d;if(_0x2b8283)_0x2682a2[_0x68b7ec(0x1cf)]=_0x2b8283;_0x2682a2[_0x68b7ec(0x26c)][_0x68b7ec(0x18e)]=_0xc73a41+'ms',bootLinesEl['appendChild'](_0x2682a2),_0xc73a41+=CONFIG['timing'][_0x68b7ec(0x203)]+_0x564dd6;});const _0x375baf=document[_0x2b9c1a(0x208)]('span');_0x375baf[_0x2b9c1a(0x2b5)]=_0x2b9c1a(0x20f),_0x375baf[_0x2b9c1a(0x26c)]['animationDelay']=_0xc73a41+'ms',bootLinesEl[_0x2b9c1a(0x212)](_0x375baf),setTimeout(loadDesktop,_0xc73a41+CONFIG['timing'][_0x2b9c1a(0x214)]);}function loadDesktop(){const _0x5a83b8=_0x1d838c;buildIcons(),buildNotes(),startClock(),startGeoJitter(),desktop[_0x5a83b8(0x2ed)][_0x5a83b8(0x1e5)](_0x5a83b8(0x21e)),bootScreen['classList'][_0x5a83b8(0x288)](_0x5a83b8(0x21e)),requestAnimationFrame(()=>requestAnimationFrame(()=>desktop[_0x5a83b8(0x2ed)][_0x5a83b8(0x1e5)](_0x5a83b8(0x224))));}function startClock(){const _0x350a27=_0x1d838c,_0x4c8086=document[_0x350a27(0x278)]('clock');if(CONFIG[_0x350a27(0x193)]){_0x4c8086[_0x350a27(0x1b8)]=CONFIG[_0x350a27(0x193)];return;}function _0x27f692(){const _0x508adf=_0x350a27,_0x1c0653=new Date();let _0x35c51e=_0x1c0653[_0x508adf(0x2b8)]();const _0x3dd027=_0x1c0653['getMinutes']()[_0x508adf(0x293)]()[_0x508adf(0x22c)](0x2,'0');let _0x457729='';if(!CONFIG[_0x508adf(0x1b9)]){_0x457729=_0x35c51e>=0xc?_0x508adf(0x252):_0x508adf(0x24e),_0x35c51e=_0x35c51e%0xc;if(_0x35c51e===0x0)_0x35c51e=0xc;}_0x4c8086[_0x508adf(0x1b8)]=_0x35c51e+':'+_0x3dd027+_0x457729;}_0x27f692(),setInterval(_0x27f692,0x3a98);}function startGeoJitter(){const _0x1c5cb7=_0x1d838c,_0x4191=document[_0x1c5cb7(0x278)](_0x1c5cb7(0x246)),_0x1030a6=38.9517,_0x31d0c6=-77.1467;setInterval(()=>{const _0x5462ce=_0x1c5cb7,_0x4f2dca=(_0x1030a6+(Math[_0x5462ce(0x251)]()-0.5)*0.0006)['toFixed'](0x4),_0x171065=(Math[_0x5462ce(0x239)](_0x31d0c6)+(Math['random']()-0.5)*0.0006)[_0x5462ce(0x1f0)](0x4);_0x4191[_0x5462ce(0x1b8)]=_0x4f2dca+_0x5462ce(0x195)+_0x171065+'\x20W';},0x898);}function buildIcons(){const _0x52932d=_0x1d838c,_0x378249=document['getElementById'](_0x52932d(0x2ec));_0x378249[_0x52932d(0x2b5)]='',CONFIG[_0x52932d(0x1fe)][_0x52932d(0x25c)](_0x233324=>{const _0xdba6e9=_0x52932d;if(_0x233324[_0xdba6e9(0x28e)])return;_0x378249[_0xdba6e9(0x212)](makeIconEl(_0x233324));});}function makeIconEl(_0x19435c){const _0x18a1c3=_0x1d838c,_0x195021=document[_0x18a1c3(0x208)](_0x18a1c3(0x1c5));return _0x195021[_0x18a1c3(0x1cf)]=_0x18a1c3(0x219),_0x195021['innerHTML']=_0x18a1c3(0x25b)+_0x19435c[_0x18a1c3(0x2df)]+_0x18a1c3(0x256)+_0x19435c['label']+_0x18a1c3(0x29e),_0x195021[_0x18a1c3(0x207)](_0x18a1c3(0x260),()=>openApp(_0x19435c[_0x18a1c3(0x1bc)])),_0x195021[_0x18a1c3(0x207)](_0x18a1c3(0x2eb),()=>openApp(_0x19435c['app'])),_0x195021;}function revealHiddenIcon(_0x4a218f){const _0x4c06e3=_0x1d838c,_0x54baa5=CONFIG[_0x4c06e3(0x1fe)]['find'](_0x1619d3=>_0x1619d3[_0x4c06e3(0x1bc)]===_0x4a218f);if(!_0x54baa5||!_0x54baa5['hidden'])return;_0x54baa5['hidden']=![],document[_0x4c06e3(0x278)](_0x4c06e3(0x2ec))['appendChild'](makeIconEl(_0x54baa5)),showToast('SIGNAL\x20DETECTED\x20—\x20NEW\x20ASSET\x20AVAILABLE');}function renderLineParts(_0xf43e57){const _0x516f7f=_0x1d838c;if(typeof _0xf43e57===_0x516f7f(0x27f))return escapeHtml(_0xf43e57);return _0xf43e57[_0x516f7f(0x2c7)](_0x3ea564=>{const _0x2c5bcc=_0x516f7f;if(typeof _0x3ea564===_0x2c5bcc(0x27f))return escapeHtml(_0x3ea564);if(_0x3ea564[_0x2c5bcc(0x232)])return'<span\x20class=\x22redact\x22>'+escapeHtml(_0x3ea564[_0x2c5bcc(0x232)])+_0x2c5bcc(0x2e4);if(_0x3ea564[_0x2c5bcc(0x2cc)])return'<span\x20class=\x22cipher\x22>'+escapeHtml(_0x3ea564[_0x2c5bcc(0x2cc)])+'</span>';return'';})[_0x516f7f(0x2ac)]('');}function escapeHtml(_0x312f9d){const _0x287dfc=_0x1d838c;return _0x312f9d[_0x287dfc(0x271)](/&/g,_0x287dfc(0x25f))[_0x287dfc(0x271)](/</g,'&lt;')['replace'](/>/g,_0x287dfc(0x272));}function buildNotes(){const _0x1569ef=_0x1d838c,_0x59c813=document[_0x1569ef(0x278)](_0x1569ef(0x1d9));_0x59c813['innerHTML']='',CONFIG[_0x1569ef(0x298)][_0x1569ef(0x25c)](_0x2cc9ac=>{const _0x5e6da1=_0x1569ef,_0x81cda=document['createElement'](_0x5e6da1(0x1c5));_0x81cda[_0x5e6da1(0x1cf)]=_0x5e6da1(0x290)+(_0x2cc9ac[_0x5e6da1(0x1d6)]||_0x5e6da1(0x23b)),_0x81cda[_0x5e6da1(0x26c)][_0x5e6da1(0x236)]=_0x2cc9ac[_0x5e6da1(0x236)]+'px',_0x81cda[_0x5e6da1(0x26c)]['left']=_0x2cc9ac['left'];const _0x1a1dfc=_0x2cc9ac[_0x5e6da1(0x2e0)]?'<div\x20class=\x22stamp\x22>'+escapeHtml(_0x2cc9ac[_0x5e6da1(0x2e0)])+_0x5e6da1(0x2de):'',_0xbab81a=_0x2cc9ac[_0x5e6da1(0x1a8)]['map'](_0x1bd129=>renderLineParts(_0x1bd129))[_0x5e6da1(0x2ac)]('<br>');_0x81cda[_0x5e6da1(0x2b5)]=_0x5e6da1(0x24a)+_0x1a1dfc+_0xbab81a+_0x5e6da1(0x29e),_0x81cda['querySelector'](_0x5e6da1(0x1f2))[_0x5e6da1(0x207)](_0x5e6da1(0x260),_0x2c3f44=>{const _0x2ec645=_0x5e6da1;_0x2c3f44[_0x2ec645(0x2b1)](),_0x81cda[_0x2ec645(0x288)]();}),makeDraggable(_0x81cda,_0x81cda[_0x5e6da1(0x1d4)](_0x5e6da1(0x1d8))),_0x59c813['appendChild'](_0x81cda);});}function makeDraggable(_0x7b2c2,_0x5d1b1b,_0x531f79){const _0x39e19a=_0x1d838c;let _0x9feec0,_0x4e3281,_0x12d66d,_0xa0bca2,_0x279f77=![];function _0xd20abf(_0x3d7732,_0x43193d){const _0x57387f=_0x3397;_0x279f77=!![],_0x7b2c2[_0x57387f(0x2ed)]['add']('dragging'),_0x7b2c2[_0x57387f(0x26c)][_0x57387f(0x21f)]=++zCounter;if(_0x531f79)_0x531f79();const _0x110c77=_0x7b2c2[_0x57387f(0x1d3)](),_0x3df0c8=_0x7b2c2[_0x57387f(0x269)][_0x57387f(0x1d3)]();_0x12d66d=_0x110c77[_0x57387f(0x296)]-_0x3df0c8['left'],_0xa0bca2=_0x110c77[_0x57387f(0x236)]-_0x3df0c8[_0x57387f(0x236)],_0x7b2c2[_0x57387f(0x26c)][_0x57387f(0x296)]=_0x12d66d+'px',_0x7b2c2[_0x57387f(0x26c)][_0x57387f(0x236)]=_0xa0bca2+'px',_0x9feec0=_0x3d7732,_0x4e3281=_0x43193d;}_0x5d1b1b[_0x39e19a(0x207)](_0x39e19a(0x227),_0x51732b=>{const _0x489cb0=_0x39e19a;_0xd20abf(_0x51732b[_0x489cb0(0x1b0)],_0x51732b['clientY']),_0x51732b[_0x489cb0(0x230)]();}),window[_0x39e19a(0x207)](_0x39e19a(0x1ee),_0x48cb1a=>{const _0x3fdf58=_0x39e19a;if(!_0x279f77)return;_0x7b2c2['style'][_0x3fdf58(0x296)]=_0x12d66d+(_0x48cb1a[_0x3fdf58(0x1b0)]-_0x9feec0)+'px',_0x7b2c2['style'][_0x3fdf58(0x236)]=_0xa0bca2+(_0x48cb1a['clientY']-_0x4e3281)+'px';}),window['addEventListener'](_0x39e19a(0x20e),()=>{const _0x22b8e0=_0x39e19a;if(!_0x279f77)return;_0x279f77=![],_0x7b2c2[_0x22b8e0(0x2ed)][_0x22b8e0(0x288)]('dragging');}),_0x5d1b1b['addEventListener'](_0x39e19a(0x2cb),_0x3c570c=>{const _0xe6da84=_0x39e19a,_0x272877=_0x3c570c[_0xe6da84(0x27a)][0x0];_0xd20abf(_0x272877[_0xe6da84(0x1b0)],_0x272877[_0xe6da84(0x1dc)]);},{'passive':!![]}),window[_0x39e19a(0x207)](_0x39e19a(0x1e4),_0x480c1c=>{const _0x49c8f3=_0x39e19a;if(!_0x279f77)return;const _0x106834=_0x480c1c[_0x49c8f3(0x27a)][0x0];_0x7b2c2['style']['left']=_0x12d66d+(_0x106834['clientX']-_0x9feec0)+'px',_0x7b2c2[_0x49c8f3(0x26c)]['top']=_0xa0bca2+(_0x106834[_0x49c8f3(0x1dc)]-_0x4e3281)+'px';},{'passive':!![]}),window[_0x39e19a(0x207)](_0x39e19a(0x1a0),()=>{const _0x55b45d=_0x39e19a;_0x279f77=![],_0x7b2c2['classList'][_0x55b45d(0x288)](_0x55b45d(0x1fc));});}function makeResizable(_0x4f3627,_0x26446a,_0x1e1a9e,_0x7dc58f){const _0x4b2d3e=_0x1d838c;let _0x28c5d6,_0x25b456,_0xe82589,_0x27000c,_0x4b1c56=![];_0x26446a[_0x4b2d3e(0x207)](_0x4b2d3e(0x227),_0x5b63fe=>{const _0x4f791c=_0x4b2d3e;_0x4b1c56=!![],_0x28c5d6=_0x5b63fe['clientX'],_0x25b456=_0x5b63fe['clientY'];const _0x386901=_0x4f3627[_0x4f791c(0x1d3)]();_0xe82589=_0x386901[_0x4f791c(0x299)],_0x27000c=_0x386901[_0x4f791c(0x1c2)],_0x5b63fe[_0x4f791c(0x2b1)](),_0x5b63fe[_0x4f791c(0x230)]();}),window[_0x4b2d3e(0x207)](_0x4b2d3e(0x1ee),_0x3ce5d7=>{const _0x531750=_0x4b2d3e;if(!_0x4b1c56)return;_0x4f3627['style']['width']=Math['max'](_0x1e1a9e,_0xe82589+(_0x3ce5d7[_0x531750(0x1b0)]-_0x28c5d6))+'px',_0x4f3627[_0x531750(0x26c)][_0x531750(0x1c2)]=Math[_0x531750(0x2b0)](_0x7dc58f,_0x27000c+(_0x3ce5d7['clientY']-_0x25b456))+'px';}),window[_0x4b2d3e(0x207)]('mouseup',()=>_0x4b1c56=![]);}function showToast(_0x11dbe0){const _0x499734=_0x1d838c,_0x238e8a=document[_0x499734(0x208)](_0x499734(0x1c5));_0x238e8a[_0x499734(0x1cf)]=_0x499734(0x202),_0x238e8a[_0x499734(0x1b8)]=_0x11dbe0,toastLayer[_0x499734(0x212)](_0x238e8a),setTimeout(()=>_0x238e8a[_0x499734(0x288)](),0xe10);}let openOffset=0x0;const openWindows={};function openApp(_0x252677){const _0x479787=_0x1d838c;if(!_0x252677||!CONFIG[_0x479787(0x261)][_0x252677])return;const _0x2fe24b=CONFIG[_0x479787(0x261)][_0x252677],_0x3ea2db='win-'+ ++openWindowCount,_0xc2a103=document[_0x479787(0x208)](_0x479787(0x1c5));_0xc2a103[_0x479787(0x1cf)]='app-window',_0xc2a103[_0x479787(0x2d1)]['id']=_0x3ea2db,_0xc2a103['dataset'][_0x479787(0x1bc)]=_0x252677,_0xc2a103[_0x479787(0x26c)][_0x479787(0x299)]=_0x2fe24b['width']+'px',_0xc2a103[_0x479787(0x26c)][_0x479787(0x1c2)]=_0x2fe24b[_0x479787(0x1c2)]+'px',_0xc2a103['style']['left']=0x3c+openOffset+'px',_0xc2a103[_0x479787(0x26c)]['top']=0x32+openOffset+'px',_0xc2a103[_0x479787(0x26c)][_0x479787(0x21f)]=++zCounter,openOffset=(openOffset+0x1c)%0x8c;const _0x39918e={'mypc':'mypc','notepad':_0x479787(0x1a3),'imgview':_0x479787(0x237),'satcom':_0x479787(0x2d7),'paint':'paint','snake':_0x479787(0x1a2),'calc':_0x479787(0x2e1)},_0x26963f=_0x39918e[_0x252677]||_0x479787(0x26e);_0xc2a103[_0x479787(0x2b5)]='\x0a\x20\x20\x20\x20<div\x20class=\x22win-titlebar\x22>\x0a\x20\x20\x20\x20\x20\x20<span\x20class=\x22win-title-text\x22>'+_0x2fe24b['title']+_0x479787(0x1f9)+_0x26963f+'\x22>'+appBodyHtml(_0x252677,_0x2fe24b)+_0x479787(0x2dd),_0xc2a103[_0x479787(0x1d4)](_0x479787(0x1b6))[_0x479787(0x207)](_0x479787(0x260),_0x3e7df8=>{const _0x162d07=_0x479787;_0x3e7df8[_0x162d07(0x2b1)](),_0xc2a103[_0x162d07(0x288)](),removeTaskbarEntry(_0x3ea2db);}),_0xc2a103[_0x479787(0x1d4)]('.win-min')['addEventListener'](_0x479787(0x260),_0x1ed8d8=>{const _0x41a1d8=_0x479787;_0x1ed8d8['stopPropagation'](),_0xc2a103[_0x41a1d8(0x26c)][_0x41a1d8(0x24c)]=_0x41a1d8(0x1e1);}),_0xc2a103['addEventListener'](_0x479787(0x227),()=>{const _0x519a27=_0x479787;_0xc2a103['style'][_0x519a27(0x21f)]=++zCounter,setActiveTaskbarEntry(_0x3ea2db);}),makeDraggable(_0xc2a103,_0xc2a103[_0x479787(0x1d4)](_0x479787(0x24f)),()=>setActiveTaskbarEntry(_0x3ea2db)),makeResizable(_0xc2a103,_0xc2a103[_0x479787(0x1d4)](_0x479787(0x1fa)),0x104,0xa0),windowsLayer[_0x479787(0x212)](_0xc2a103),addTaskbarEntry(_0x3ea2db,_0x2fe24b[_0x479787(0x2d9)],_0xc2a103);if(_0x252677===_0x479787(0x26e)){const _0x585e60=_0xc2a103[_0x479787(0x1d4)](_0x479787(0x182));if(_0x585e60)setTimeout(()=>_0x585e60[_0x479787(0x1b1)](),0x32);}_0x252677===_0x479787(0x237)&&initImageViewer(_0xc2a103),_0x252677===_0x479787(0x2d7)&&initSatcom(_0xc2a103),_0x252677===_0x479787(0x2c4)&&initPaint(_0xc2a103),_0x252677===_0x479787(0x1a2)&&initSnake(_0xc2a103,_0x3ea2db),_0x252677===_0x479787(0x2e1)&&initCalc(_0xc2a103),_0x252677==='mypc'&&_0xc2a103['querySelectorAll'](_0x479787(0x23d))[_0x479787(0x25c)](_0x3c068b=>{const _0x2e2ffe=_0x479787;_0x3c068b[_0x2e2ffe(0x26c)][_0x2e2ffe(0x244)]=_0x2e2ffe(0x21a),_0x3c068b[_0x2e2ffe(0x207)]('click',()=>{const _0x244380=_0x2e2ffe;_0x3c068b[_0x244380(0x2d1)][_0x244380(0x241)]==='0'&&showToast('VOLUME\x20OFFLINE\x20—\x20MOUNT\x20VIA\x20TERMINAL');});});}function addTaskbarEntry(_0x5f305d,_0x29cc58,_0x544766){const _0x130809=_0x1d838c,_0x58f119=document[_0x130809(0x208)](_0x130809(0x1c5));_0x58f119[_0x130809(0x1cf)]=_0x130809(0x1de),_0x58f119['textContent']=_0x29cc58,_0x58f119['dataset']['id']=_0x5f305d,_0x58f119[_0x130809(0x207)](_0x130809(0x260),()=>{const _0x58b700=_0x130809;_0x544766[_0x58b700(0x26c)][_0x58b700(0x24c)]=_0x544766[_0x58b700(0x26c)][_0x58b700(0x24c)]==='none'?'flex':_0x58b700(0x1e1),_0x544766[_0x58b700(0x26c)][_0x58b700(0x21f)]=++zCounter,setActiveTaskbarEntry(_0x5f305d);}),taskbarApps[_0x130809(0x212)](_0x58f119),openWindows[_0x5f305d]={'el':_0x544766,'taskbarEl':_0x58f119},setActiveTaskbarEntry(_0x5f305d);}function removeTaskbarEntry(_0xcd1fb4){const _0x190084=_0x1d838c,_0x5c5d1d=openWindows[_0xcd1fb4];_0x5c5d1d&&(_0x5c5d1d[_0x190084(0x1be)]['remove'](),delete openWindows[_0xcd1fb4]);}function setActiveTaskbarEntry(_0x1dd8f2){const _0x541096=_0x1d838c;Object[_0x541096(0x1e8)](openWindows)[_0x541096(0x25c)](_0x566958=>openWindows[_0x566958]['taskbarEl'][_0x541096(0x2ed)][_0x541096(0x1c4)](_0x541096(0x279),_0x566958===_0x1dd8f2));}function appBodyHtml(_0x36e67e,_0x401a89){const _0x4b4a1b=_0x1d838c;if(_0x36e67e===_0x4b4a1b(0x29a)){const _0x5a3605=_0x401a89[_0x4b4a1b(0x19e)][_0x4b4a1b(0x2c7)](_0x2cbb53=>_0x4b4a1b(0x2d6)+_0x2cbb53[_0x4b4a1b(0x241)]+_0x4b4a1b(0x188)+_0x2cbb53[_0x4b4a1b(0x2df)]+_0x4b4a1b(0x29b)+_0x2cbb53[_0x4b4a1b(0x2ab)]+_0x4b4a1b(0x255)+_0x2cbb53[_0x4b4a1b(0x1ca)]+_0x4b4a1b(0x20b)+_0x2cbb53[_0x4b4a1b(0x241)]+'%\x22></div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20</div>')['join']('');return _0x4b4a1b(0x187)+_0x5a3605;}if(_0x36e67e===_0x4b4a1b(0x26e)){const _0x489570=escapeHtml(_0x401a89[_0x4b4a1b(0x2b3)]||'');return _0x4b4a1b(0x285)+_0x489570['split']('\x0a')[_0x4b4a1b(0x2c7)](_0x440334=>_0x4b4a1b(0x2bf)+_0x440334+_0x4b4a1b(0x29e))[_0x4b4a1b(0x2ac)]('')+_0x4b4a1b(0x1f6)+escapeHtml(_0x401a89[_0x4b4a1b(0x229)])+_0x4b4a1b(0x1dd);}if(_0x36e67e===_0x4b4a1b(0x1a3))return'<div\x20class=\x22notepad-wrap\x22><textarea\x20placeholder=\x22'+escapeHtml(_0x401a89[_0x4b4a1b(0x22e)]||'')+'\x22>'+escapeHtml(_0x401a89[_0x4b4a1b(0x1c3)]||'')+_0x4b4a1b(0x19a)+CONFIG['puzzle'][_0x4b4a1b(0x2ef)]+_0x4b4a1b(0x2e6);if(_0x36e67e==='imgview'){const _0x12f95e=_0x4b4a1b(0x259)+openWindowCount;return _0x4b4a1b(0x1f3)+_0x12f95e+_0x4b4a1b(0x205)+_0x12f95e+'\x22\x20width=\x22240\x22\x20height=\x22140\x22></canvas></div>\x0a\x20\x20\x20\x20\x20\x20<button\x20class=\x22imgview-btn\x22>RUN\x20ANALYSIS</button>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22imgview-result\x22>No\x20anomalies\x20flagged\x20yet.</div>\x0a\x20\x20\x20\x20</div>';}if(_0x36e67e==='satcom')return _0x4b4a1b(0x234);if(_0x36e67e===_0x4b4a1b(0x2c4))return _0x4b4a1b(0x287);if(_0x36e67e===_0x4b4a1b(0x1a2))return _0x4b4a1b(0x1f4);if(_0x36e67e===_0x4b4a1b(0x2e1)){const _0x27bed3=['7','8','9','/','4','5','6','*','1','2','3','-','0','.','=','+'],_0x24c669=_0x27bed3[_0x4b4a1b(0x2c7)](_0x4c56e4=>'<button\x20class=\x22calc-key\x22\x20data-key=\x22'+_0x4c56e4+'\x22>'+_0x4c56e4+_0x4b4a1b(0x211))['join']('');return _0x4b4a1b(0x18c)+_0x24c669+'</div>\x0a\x20\x20\x20\x20\x20\x20<button\x20class=\x22calc-clear\x22>C</button>\x0a\x20\x20\x20\x20</div>';}return'';}function _0x5e48(){const _0x3f5575=['icons','XOR','moveTo','ATBASH','toast','bootLineDelay','A1Z26','\x22>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22imgview-canvas-holder\x22><canvas\x20id=\x22','bad\x20group','addEventListener','createElement','C:\x5cSECURE>','USAGE:\x20AUTHENTICATE\x20<code>','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22bar-track\x22><div\x20class=\x22bar-fill\x22\x20style=\x22width:','#0c0e12','USAGE:\x20ROT\x20<n>\x20<text>','mouseup','<span\x20class=\x22boot-cursor\x22></span>','ArrowDown','</button>','appendChild','Notepad','postBootHold','.cmd-prompt','USAGE:\x20MORSE\x20<code>','.paint-canvas','INPUT','desk-icon','pointer','NET\x20\x200\x20\x20:\x20SECURE\x20LINK\x20.........\x20ESTABLISHED','Untitled\x20—\x20type\x20to\x20begin...','.paint-swatches','show','zIndex','toUpperCase','archiveCipherHex','length','BINARY','visible','360px','CALCULATOR','mousedown','check\x20the\x20network\x20share','prompt','pair\x20the\x20decimals','split','padStart','1564350FfVqIp','placeholder','dim','preventDefault','DIR','redact','Secure\x20Share\x20(E:)','<div\x20class=\x22satcom-wrap\x22>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22satcom-readout\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22satcom-label\x22>BEARING</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22satcom-value\x22\x20id=\x22satcom-value\x22>SCANNING...</div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<button\x20class=\x22imgview-btn\x20satcom-lock-btn\x22>LOCK\x20TARGET</button>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22satcom-hint\x22>uplink\x20drifts\x20until\x20a\x20fix\x20is\x20acquired</div>\x0a\x20\x20\x20\x20</div>','ARCHIVE\x20VOLUME\x20MOUNTED.\x20INDEX\x20WRITTEN\x20TO\x20DESKTOP.','top','imgview','glitching','abs','\x27\x20is\x20not\x20recognized\x20as\x20an\x20internal\x20command.\x0aType\x20HELP\x20for\x20a\x20list\x20of\x20commands.','yellow','GAME\x20OVER\x20—\x20SPACE\x20TO\x20RESTART','.drive','seal','My\x20Computer','5949NRbszZ','used','size','desktop','cursor','.paint-clear-btn','geo-readout','bootBinary','ARCHIVE','57712OAJXOh','<div\x20class=\x22titlebar\x22><span>MEMO</span><span\x20class=\x22note-close\x22>×</span></div><div\x20class=\x22body\x22>','scrollTop','display','240px','\x20AM','.win-titlebar','CLASSIFICATION:\x20TOP\x20SECRET\x20//\x20NOFORN','random','\x20PM','ROT-3','EXIT','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22info\x22>','</div><div\x20class=\x22label\x22>','activeElement','err','iv-','timing','<div\x20class=\x22glyph\x22>','forEach','#6cc491','createElementNS','&amp;','click','apps','\x20\x20ECHO\x20[txt]\x20\x20\x20\x20\x20\x20\x20\x20\x20print\x20text\x20back','NET\x20ID:\x20','SECURE\x20ACCESS\x20TERMINAL','.cmd-history','SECURE\x5cANALYST','getImageData','admiralOS\x20TERMINAL\x20[Rev\x201.21.5]\x0aType\x20HELP\x20for\x20a\x20list\x20of\x20commands.\x0a','parentElement','\x20active','over','style','CLEAR','cmd','background','setAttribute','replace','&gt;','append\x20as\x20final\x20digits','cmd-line','scrollHeight','4378182oGbsbt','VIGENERE','getElementById','active','touches','Command\x20Prompt','████████','\x20\x20AUTHENTICATE\x20[code]\x20verify\x20field\x20credentials','play','string','76%','fillRect','6775209VpImFR','120px','keydown','<div\x20class=\x22cmd-history\x22>','dir','<div\x20class=\x22paint-wrap\x22>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22paint-toolbar\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22paint-swatches\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22paint-sizes\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22paint-size-btn\x22\x20data-size=\x222\x22>S</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22paint-size-btn\x20active\x22\x20data-size=\x225\x22>M</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22paint-size-btn\x22\x20data-size=\x2210\x22>L</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22paint-clear-btn\x22>CLEAR</button>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<canvas\x20class=\x22paint-canvas\x22\x20width=\x22400\x22\x20height=\x22300\x22></canvas>\x0a\x20\x20\x20\x20</div>','remove','seal-subtitle','(C)\x20Directorate\x20of\x20Science\x20&\x20Technology','ArrowLeft','NOTEPAD','geoTargetLon','hidden','CANNOT\x20MOUNT\x20\x27','sticky\x20','interval','star-ring','toString','16ARzRcy','WHOAMI','left','ARROW\x20KEYS\x20TO\x20STEER','notes','width','mypc','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22label\x22>','getContext','A=1\x20...\x20Z=26\x20—','</div>','MEM\x20\x20:\x2065,536\x20MB\x20.........\x20OK','holdAfter','circle','4535466YEtHHb','substr','ArrowUp','lineCap','nextDir','IMAGE\x20VIEWER','test','slice','floor','label','join','\x20\x20CLEAR\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20clear\x20the\x20screen','Archive\x20Volume\x20(D:)','arc','max','stopPropagation','.calc-key','banner','Volume\x20in\x20drive\x20C\x20is\x20SECURE\x0a\x0a\x20\x20ops_log.txt\x0a\x20\x20contacts.dat\x0a\x20\x20readme.txt\x0a\x0a\x20\x203\x20File(s)','innerHTML','DISK\x200\x20\x20:\x20ENCRYPTED\x20VOLUME\x20\x20512GB\x20\x20[AES-256]','2.0\x20TB\x20—\x20offline','getHours','lineWidth','\x20\x20WHOAMI\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display\x20current\x20session\x20identity','MORSE','.calc-clear','key','FIX\x20ACQUIRED','<div\x20class=\x22cmd-line\x22>','seal-warn','atbashCipher','179836ETFkbQ','passphrase','paint','SESSION\x20INITIALIZED.','cls','map','http://www.w3.org/2000/svg','USAGE:\x20BINARY\x20<bits>','Paint','touchstart','cipher','locked','noteCipher','putImageData','target','dataset','value','USAGE:\x20XOR\x20<key>\x20<hex>','paint-swatch','querySelectorAll','<div\x20class=\x22drive\x22\x20data-used=\x22','satcom','matches','title','\x27\x20—\x20VOLUME\x20NOT\x20FOUND.','#c6a15b','#050607','</div>\x0a\x20\x20\x20\x20<div\x20class=\x22resize-handle\x22\x20title=\x22Resize\x22></div>\x0a\x20\x20','</div><br>','glyph','stamp','calc','COMMAND\x20PROMPT','.snake-canvas','</span>','DATE','</div></div>','disabled','110px','#c15b50','accent','dblclick','icon-grid','classList','strokeStyle','hexInstruction','charCodeAt','fromCharCode','.win-body.cmd\x20input','USAGE:\x20VIGENERE\x20<key>\x20<ciphertext>','score','\x20\x20ROT\x20<n>\x20<text>\x20\x20\x20\x20\x20caesar-shift\x20text\x20by\x20n','SIG\x20\x200\x20\x20:\x20','<div\x20class=\x22mypc-head\x22>SYSTEM\x20VOLUMES</div>','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22glyph\x22>','#satcom-value','start','\x20status\x20—','<div\x20class=\x22calc-wrap\x22>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22calc-display\x22>0</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22calc-grid\x22>','round','animationDelay','seal-hint','boot-lines','SURVEILLANCE.PNG','3715584fhyGqG','taskbarClock','text','\x20N,\x20','.paint-swatch','\x20\x20DIR\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20list\x20files\x20in\x20current\x20volume','.paint-size-btn','mirror\x20the\x20alphabet\x20—','</textarea><div\x20class=\x22stego-line\x22>','stegoMorse','512\x20GB\x20—\x20118\x20GB\x20free','\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20<div\x20class=\x22resize-handle\x22\x20title=\x22Resize\x22></div>\x0a\x20\x20','drives','\x0a\x20\x20\x20\x20<div\x20class=\x22win-titlebar\x22>\x0a\x20\x20\x20\x20\x20\x20<span\x20class=\x22win-title-text\x22>ARCHIVE_INDEX.TXT</span>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22win-controls\x22><span\x20class=\x22win-close\x22\x20title=\x22Close\x22>×</span></div>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20<div\x20class=\x22win-body\x22\x20style=\x22padding:16px;\x20font-family:var(--font-mono);\x20font-size:12px;\x20line-height:1.8;\x22>\x0a\x20\x20\x20\x20\x20\x20CIPHER:\x20XOR<br>\x0a\x20\x20\x20\x20\x20\x20KEY:\x20STATION\x20CALLSIGN\x20(letters\x20only)<br><br>\x0a\x20\x20\x20\x20\x20\x20PAYLOAD:<br>\x0a\x20\x20\x20\x20\x20\x20','touchend','.snake-status','snake','notepad','.win-body.cmd','TEXTAREA','data','beginPath','lines','SATCOM\x20Uplink','running','TPM\x20\x20:\x20HARDWARE\x20KEY\x20VERIFIED','reset-btn','pop','includes','USAGE:\x20ATBASH\x20<text>','clientX','focus','SATCOM\x20UPLINK','#9a9a93','cos','puzzle','.win-close','glitchDuration','textContent','use24hClock','food','contact:\x20','app','boot-screen','taskbarEl','#5a7fae','sin','rgb(','height','content','toggle','div','Encrypted\x20Volume\x20(C:)','app-window','warning','Snake.exe','info','taskbar-apps','bootLines','\x20\x20DATE\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display\x20current\x20date','ACCESS\x20GRANTED.\x20WELCOME\x20BACK.','className','windows-layer','span','lineTo','getBoundingClientRect','querySelector','.imgview-btn','color','50%','.titlebar','notes-layer','trim','CLICK\x20TO\x20AUTHENTICATE','clientY','&nbsp;</span><input\x20type=\x22text\x22\x20autocomplete=\x22off\x22\x20spellcheck=\x22false\x22></div>','taskbar-app\x20active','.app-window','78%','none','fillStyle','subtitle','touchmove','add','admiralOS\x20—\x20REV\x201.21.5','Calculator','keys','tagName','VERIFYING\x20CREDENTIALS...','ECHO','total\x20the\x20ROT-3\x20word,','340px','mousemove','stroke','toFixed','some','.note-close','<div\x20class=\x22imgview-wrap\x22\x20data-canvas-id=\x22','<div\x20class=\x22snake-wrap\x22>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22snake-hud\x22><span>SCORE:\x20<span\x20class=\x22snake-score\x22>0</span></span></div>\x0a\x20\x20\x20\x20\x20\x20<canvas\x20class=\x22snake-canvas\x22\x20width=\x22240\x22\x20height=\x22240\x22></canvas>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22snake-status\x22>USE\x20ARROW\x20KEYS\x20—\x20SPACE\x20TO\x20START</div>\x0a\x20\x20\x20\x20</div>','.imgview-result','</div><div\x20class=\x22cmd-input-line\x22><span\x20class=\x22cmd-prompt\x22>','coordinates\x20hold\x20more','.satcom-value','</span>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22win-controls\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22win-min\x22\x20title=\x22Minimize\x22>_</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22win-close\x22\x20title=\x22Close\x22>×</span>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20<div\x20class=\x22win-body\x20','.resize-handle','62%','dragging','AVAILABLE\x20COMMANDS:'];_0x5e48=function(){return _0x3f5575;};return _0x5e48();}const MORSE_TABLE={'.-':'A','-...':'B','-.-.':'C','-..':'D','.':'E','..-.':'F','--.':'G','....':'H','..':'I','.---':'J','-.-':'K','.-..':'L','--':'M','-.':'N','---':'O','.--.':'P','--.-':'Q','.-.':'R','...':'S','-':'T','..-':'U','...-':'V','.--':'W','-..-':'X','-.--':'Y','--..':'Z','-----':'0','.----':'1','..---':'2','...--':'3','....-':'4','.....':'5','-....':'6','--...':'7','---..':'8','----.':'9'};function morseDecode(_0x3d99bc){const _0x49e9b8=_0x1d838c;return _0x3d99bc[_0x49e9b8(0x1da)]()[_0x49e9b8(0x22b)](/\s+/)[_0x49e9b8(0x2c7)](_0x124684=>MORSE_TABLE[_0x124684]||'?')[_0x49e9b8(0x2ac)]('');}function vigenereDecode(_0xbf6bd5,_0x57d8f0){const _0x2c675a=_0x1d838c;let _0x365bc1=0x0;return _0xbf6bd5[_0x2c675a(0x271)](/[a-zA-Z]/g,_0x412d32=>{const _0x21d465=_0x2c675a,_0x51656=_0x412d32<='Z'?0x41:0x61,_0xb51ea8=_0x57d8f0[_0x365bc1%_0x57d8f0['length']][_0x21d465(0x220)]()[_0x21d465(0x2f0)](0x0)-0x41;return _0x365bc1++,String['fromCharCode']((_0x412d32[_0x21d465(0x220)]()[_0x21d465(0x2f0)](0x0)-0x41-_0xb51ea8+0x1a)%0x1a+_0x51656);});}function xorDecode(_0x21b663,_0x59ba86){const _0x3ab8f1=_0x1d838c;let _0x20d399='';for(let _0x3761e1=0x0;_0x3761e1<_0x21b663[_0x3ab8f1(0x222)];_0x3761e1+=0x2){const _0x7382b6=parseInt(_0x21b663[_0x3ab8f1(0x2a3)](_0x3761e1,0x2),0x10),_0x518242=_0x59ba86[_0x3ab8f1(0x2f0)](_0x3761e1/0x2%_0x59ba86[_0x3ab8f1(0x222)]);_0x20d399+=String[_0x3ab8f1(0x2f1)](_0x7382b6^_0x518242);}return _0x20d399;}function binaryDecode(_0x3a27e4){const _0x336110=_0x1d838c,_0x573bff=_0x3a27e4[_0x336110(0x1da)]()['split'](/\s+/);return _0x573bff['map'](_0x4038d4=>{const _0x4eba52=_0x336110;if(!/^[01]{1,8}$/[_0x4eba52(0x2a8)](_0x4038d4))throw new Error(_0x4eba52(0x206));return String[_0x4eba52(0x2f1)](parseInt(_0x4038d4,0x2));})[_0x336110(0x2ac)]('');}function atbashDecode(_0x21bf47){return _0x21bf47['replace'](/[a-zA-Z]/g,_0x5559f5=>{const _0x5b99c0=_0x3397,_0x235aae=_0x5559f5<='Z'?0x41:0x61;return String[_0x5b99c0(0x2f1)](_0x235aae+(0x19-(_0x5559f5[_0x5b99c0(0x220)]()[_0x5b99c0(0x2f0)](0x0)-0x41)));});}function hexToStr(_0x18612e){const _0x1d71b1=_0x1d838c;let _0x463d0f='';for(let _0x687e70=0x0;_0x687e70<_0x18612e['length'];_0x687e70+=0x2)_0x463d0f+=String['fromCharCode'](parseInt(_0x18612e[_0x1d71b1(0x2a3)](_0x687e70,0x2),0x10));return _0x463d0f;}function strToHex(_0x3ced94){const _0x2be44d=_0x1d838c;let _0x217340='';for(let _0x533528=0x0;_0x533528<_0x3ced94[_0x2be44d(0x222)];_0x533528++)_0x217340+=_0x3ced94[_0x2be44d(0x2f0)](_0x533528)[_0x2be44d(0x293)](0x10)['padStart'](0x2,'0');return _0x217340;}function rot(_0x5815f1,_0xd90223){const _0x4bbf38=_0x1d838c;return _0xd90223=(_0xd90223%0x1a+0x1a)%0x1a,_0x5815f1[_0x4bbf38(0x271)](/[a-zA-Z]/g,_0x4dd343=>{const _0x564da4=_0x4bbf38,_0x2d81d1=_0x4dd343<='Z'?0x41:0x61;return String['fromCharCode']((_0x4dd343[_0x564da4(0x2f0)](0x0)-_0x2d81d1+_0xd90223)%0x1a+_0x2d81d1);});}function autoDecode(_0x1368e4){const _0x2c55ae=_0x1d838c;_0x1368e4=_0x1368e4[_0x2c55ae(0x1da)]();if(/^[0-9a-fA-F]+$/[_0x2c55ae(0x2a8)](_0x1368e4)&&_0x1368e4['length']%0x2===0x0)return hexToStr(_0x1368e4);if(/^[A-Za-z0-9+/]+=*$/[_0x2c55ae(0x2a8)](_0x1368e4)&&_0x1368e4[_0x2c55ae(0x222)]%0x4===0x0)try{return atob(_0x1368e4);}catch(_0x400f3d){}return rot(_0x1368e4,0xd);}const CMD_HELP=[_0x1d838c(0x1fd),'\x20\x20HELP\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20show\x20this\x20list',_0x1d838c(0x197),_0x1d838c(0x2ba),_0x1d838c(0x1cd),_0x1d838c(0x185),_0x1d838c(0x2ad),_0x1d838c(0x262),_0x1d838c(0x27d),'\x20\x20EXIT\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20close\x20this\x20window'][_0x1d838c(0x2ac)]('\x0a');function runCommand(_0x42ec6d,_0x324b12,_0x53b5dc){const _0x54605c=_0x1d838c,_0x162e10=_0x42ec6d['trim'](),_0x5ea062=_0x162e10[_0x54605c(0x220)](),_0x37cdc9=_0x162e10[_0x54605c(0x22b)]('\x20'),_0x3bc10d=_0x37cdc9[0x0]?_0x37cdc9[0x0]['toUpperCase']():'';if(_0x3bc10d==='HELP')return{'text':CMD_HELP};if(_0x3bc10d===_0x54605c(0x231))return{'text':_0x54605c(0x2b4)};if(_0x3bc10d===_0x54605c(0x295))return{'text':_0x54605c(0x266)};if(_0x3bc10d===_0x54605c(0x2e5))return{'text':new Date()[_0x54605c(0x293)]()};if(_0x3bc10d===_0x54605c(0x1eb))return{'text':_0x37cdc9[_0x54605c(0x2a9)](0x1)[_0x54605c(0x2ac)]('\x20')};if(_0x3bc10d==='ROT'){const _0xa493b4=parseInt(_0x37cdc9[0x1],0xa),_0x2a1d6f=_0x37cdc9[_0x54605c(0x2a9)](0x2)[_0x54605c(0x2ac)]('\x20');if(isNaN(_0xa493b4)||!_0x2a1d6f)return{'text':_0x54605c(0x20d),'cls':'err'};return{'text':rot(_0x2a1d6f,_0xa493b4)};}if(_0x3bc10d==='DECODE'){const _0x129759=_0x162e10[_0x54605c(0x2a9)](_0x3bc10d[_0x54605c(0x222)])[_0x54605c(0x1da)]();if(!_0x129759)return{'text':'USAGE:\x20DECODE\x20<text>','cls':_0x54605c(0x258)};return{'text':autoDecode(_0x129759)};}if(_0x3bc10d===_0x54605c(0x2bb)){const _0x5e0fcd=_0x162e10[_0x54605c(0x2a9)](_0x3bc10d[_0x54605c(0x222)])['trim']();if(!_0x5e0fcd)return{'text':_0x54605c(0x216),'cls':_0x54605c(0x258)};return{'text':morseDecode(_0x5e0fcd)};}if(_0x3bc10d===_0x54605c(0x277)){const _0x377204=_0x37cdc9[0x1],_0x2fed84=_0x37cdc9[_0x54605c(0x2a9)](0x2)[_0x54605c(0x2ac)]('\x20');if(!_0x377204||!_0x2fed84)return{'text':_0x54605c(0x183),'cls':'err'};return{'text':vigenereDecode(_0x2fed84,_0x377204)};}if(_0x3bc10d===_0x54605c(0x223)){const _0x2fe65f=_0x162e10[_0x54605c(0x2a9)](_0x3bc10d[_0x54605c(0x222)])[_0x54605c(0x1da)]();if(!_0x2fe65f)return{'text':_0x54605c(0x2c9),'cls':'err'};try{return{'text':binaryDecode(_0x2fe65f)};}catch(_0x4a42b1){return{'text':'MALFORMED\x20BINARY\x20INPUT.','cls':'err'};}}if(_0x3bc10d===_0x54605c(0x201)){const _0x1c0f36=_0x162e10['slice'](_0x3bc10d[_0x54605c(0x222)])[_0x54605c(0x1da)]();if(!_0x1c0f36)return{'text':_0x54605c(0x1af),'cls':_0x54605c(0x258)};return{'text':atbashDecode(_0x1c0f36)};}if(_0x3bc10d===_0x54605c(0x1ff)){const _0x59e1c0=_0x37cdc9[0x1],_0x4e9e2a=_0x37cdc9[0x2];if(!_0x59e1c0||!_0x4e9e2a)return{'text':_0x54605c(0x2d3),'cls':'err'};return{'text':xorDecode(_0x4e9e2a,_0x59e1c0)};}if(_0x3bc10d==='MOUNT'){const _0xeca96c=(_0x37cdc9[0x1]||'')['toUpperCase']();if(_0xeca96c!==_0x54605c(0x248))return{'text':_0x54605c(0x28f)+(_0x37cdc9[0x1]||'')+_0x54605c(0x2da),'cls':'err'};return openArchiveWindow(),{'text':_0x54605c(0x235),'cls':'ok'};}if(_0x3bc10d==='AUTHENTICATE'){const _0x1174d6=_0x37cdc9[_0x54605c(0x2a9)](0x1)[_0x54605c(0x2ac)]('')[_0x54605c(0x220)]()[_0x54605c(0x271)](/[^A-Z0-9]/g,'');if(!_0x1174d6)return{'text':_0x54605c(0x20a),'cls':_0x54605c(0x258)};if(_0x1174d6===CONFIG['puzzle'][_0x54605c(0x2c3)])return triggerFinale(),{'text':_0x54605c(0x1ce),'cls':'ok'};return{'text':'ACCESS\x20DENIED\x20—\x20CREDENTIALS\x20NOT\x20RECOGNIZED.','cls':_0x54605c(0x258)};}if(_0x3bc10d===_0x54605c(0x26d)){const _0x31eb4b=_0x324b12[_0x54605c(0x1d4)](_0x54605c(0x265));if(_0x31eb4b)_0x31eb4b['innerHTML']='';return null;}if(_0x3bc10d===_0x54605c(0x254))return _0x53b5dc[_0x54605c(0x288)](),removeTaskbarEntry(_0x53b5dc[_0x54605c(0x2d1)]['id']),null;if(_0x162e10==='')return null;return{'text':'\x27'+_0x162e10+_0x54605c(0x23a),'cls':'err'};}windowsLayer[_0x1d838c(0x207)](_0x1d838c(0x284),_0x4ddf30=>{const _0x271c25=_0x1d838c;if(_0x4ddf30[_0x271c25(0x2d0)][_0x271c25(0x2d8)](_0x271c25(0x182))&&_0x4ddf30[_0x271c25(0x2bd)]==='Enter'){const _0xf4d288=_0x4ddf30[_0x271c25(0x2d0)],_0x235cf7=_0xf4d288['closest'](_0x271c25(0x1a4)),_0x21b145=_0xf4d288['closest'](_0x271c25(0x1df)),_0x1d8eee=_0x235cf7[_0x271c25(0x1d4)]('.cmd-history'),_0x254f57=_0x235cf7[_0x271c25(0x1d4)](_0x271c25(0x215))[_0x271c25(0x1b8)],_0x14dcfc=document[_0x271c25(0x208)](_0x271c25(0x1c5));_0x14dcfc[_0x271c25(0x1cf)]=_0x271c25(0x274),_0x14dcfc[_0x271c25(0x1b8)]=_0x254f57+_0xf4d288[_0x271c25(0x2d2)],_0x1d8eee[_0x271c25(0x212)](_0x14dcfc);const _0x2c6d9a=runCommand(_0xf4d288['value'],_0x235cf7,_0x21b145);_0x2c6d9a&&_0x2c6d9a[_0x271c25(0x194)]&&_0x2c6d9a[_0x271c25(0x194)][_0x271c25(0x22b)]('\x0a')[_0x271c25(0x25c)](_0x539b30=>{const _0x25c796=_0x271c25,_0x4c6591=document[_0x25c796(0x208)]('div');_0x4c6591[_0x25c796(0x1cf)]=_0x25c796(0x274)+(_0x2c6d9a[_0x25c796(0x2c6)]?'\x20'+_0x2c6d9a[_0x25c796(0x2c6)]:''),_0x4c6591['textContent']=_0x539b30,_0x1d8eee['appendChild'](_0x4c6591);}),_0xf4d288[_0x271c25(0x2d2)]='',_0x235cf7[_0x271c25(0x24b)]=_0x235cf7[_0x271c25(0x275)];}});function initImageViewer(_0x29e4f2){const _0x100b8e=_0x1d838c,_0x4c309b=_0x29e4f2[_0x100b8e(0x1d4)]('canvas'),_0x535a20=_0x4c309b['getContext']('2d'),_0x1eefaa=_0x4c309b[_0x100b8e(0x299)],_0xc085a8=_0x4c309b['height'];let _0xea46c=0x2a;function _0x5d90c5(){return _0xea46c=(_0xea46c*0x2455+0xc091)%0x38f40,_0xea46c/0x38f40;}_0x535a20[_0x100b8e(0x1e2)]=_0x100b8e(0x2dc),_0x535a20[_0x100b8e(0x281)](0x0,0x0,_0x1eefaa,_0xc085a8);for(let _0x2c0529=0x0;_0x2c0529<_0x1eefaa;_0x2c0529+=0x4){const _0x5ceb2e=0x14+Math[_0x100b8e(0x2aa)](_0x5d90c5()*0x1e);_0x535a20['fillStyle']=_0x100b8e(0x1c1)+_0x5ceb2e+','+(_0x5ceb2e+0x4)+','+(_0x5ceb2e+0x6)+')',_0x535a20[_0x100b8e(0x281)](_0x2c0529,0x0,0x4,_0xc085a8);}_0x535a20[_0x100b8e(0x2ee)]='rgba(198,161,91,0.25)',_0x535a20[_0x100b8e(0x1a7)](),_0x535a20[_0x100b8e(0x2af)](_0x1eefaa/0x2,_0xc085a8/0x2,0x28,0x0,Math['PI']*0x2),_0x535a20['stroke'](),_0x535a20['beginPath'](),_0x535a20[_0x100b8e(0x200)](0x0,_0xc085a8/0x2),_0x535a20[_0x100b8e(0x1d2)](_0x1eefaa,_0xc085a8/0x2),_0x535a20[_0x100b8e(0x200)](_0x1eefaa/0x2,0x0),_0x535a20[_0x100b8e(0x1d2)](_0x1eefaa/0x2,_0xc085a8),_0x535a20['stroke']();const _0x383c1c=CONFIG[_0x100b8e(0x1b5)][_0x100b8e(0x19b)],_0x20102c=_0x535a20['getImageData'](0x0,0x0,_0x1eefaa,_0xc085a8);let _0xd20edc=0x0;_0x1f6bf9:for(let _0x4494ff=0x0;_0x4494ff<_0x383c1c[_0x100b8e(0x222)];_0x4494ff++){const _0x386267=_0x383c1c['charCodeAt'](_0x4494ff);for(let _0x258e07=0x7;_0x258e07>=0x0;_0x258e07--){const _0x54771b=_0x386267>>_0x258e07&0x1,_0x340ab7=_0xd20edc*0x4;if(_0x340ab7>=_0x20102c['data']['length'])break _0x1f6bf9;_0x20102c[_0x100b8e(0x1a6)][_0x340ab7]=_0x20102c['data'][_0x340ab7]&0xfe|_0x54771b,_0xd20edc++;}}_0x535a20[_0x100b8e(0x2cf)](_0x20102c,0x0,0x0);const _0x381378=_0x29e4f2[_0x100b8e(0x1d4)](_0x100b8e(0x1d5)),_0x3c58fe=_0x29e4f2[_0x100b8e(0x1d4)](_0x100b8e(0x1f5));_0x381378[_0x100b8e(0x207)](_0x100b8e(0x260),()=>{const _0x34eb04=_0x100b8e,_0x39198d=_0x535a20[_0x34eb04(0x267)](0x0,0x0,_0x1eefaa,_0xc085a8)['data'];let _0x36805f='';for(let _0x55d2f5=0x0;_0x55d2f5<_0x383c1c[_0x34eb04(0x222)]*0x8;_0x55d2f5++){_0x36805f+=_0x39198d[_0x55d2f5*0x4]&0x1;}let _0x2d09ee='';for(let _0x42ec50=0x0;_0x42ec50<_0x36805f['length'];_0x42ec50+=0x8){_0x2d09ee+=String[_0x34eb04(0x2f1)](parseInt(_0x36805f[_0x34eb04(0x2a3)](_0x42ec50,0x8),0x2));}_0x3c58fe[_0x34eb04(0x1b8)]='LSB\x20ANOMALY\x20DECODED:\x20\x22'+_0x2d09ee+'\x22',_0x3c58fe[_0x34eb04(0x2ed)]['add']('revealed');});}let typedBuffer='';function initSatcom(_0x28329c){const _0x5c12d8=_0x1d838c,_0x458b72=_0x28329c['querySelector'](_0x5c12d8(0x189))||_0x28329c[_0x5c12d8(0x1d4)](_0x5c12d8(0x1f8)),_0xf0c39a=_0x28329c[_0x5c12d8(0x1d4)]('.satcom-lock-btn');let _0x1a5007=null;function _0x5760ac(){const _0x3a95b6=_0x5c12d8,_0x3ca616=(0x24+Math[_0x3a95b6(0x251)]()*0x4)[_0x3a95b6(0x1f0)](0x4),_0x72a9f=(0x4b+Math[_0x3a95b6(0x251)]()*0x4)['toFixed'](0x4);return _0x3ca616+'\x20N,\x20'+_0x72a9f+'\x20W';}_0x1a5007=setInterval(()=>{const _0x9cf510=_0x5c12d8;_0x458b72[_0x9cf510(0x1b8)]=_0x5760ac();},0x15e),_0xf0c39a['addEventListener'](_0x5c12d8(0x260),()=>{const _0x4e8b65=_0x5c12d8;clearInterval(_0x1a5007),_0x458b72[_0x4e8b65(0x1b8)]=CONFIG[_0x4e8b65(0x1b5)]['geoTargetLat']+'\x20N,\x20'+CONFIG['puzzle'][_0x4e8b65(0x28d)]+'\x20W',_0x458b72[_0x4e8b65(0x2ed)][_0x4e8b65(0x1e5)](_0x4e8b65(0x2cd)),_0xf0c39a[_0x4e8b65(0x2e7)]=!![],_0xf0c39a[_0x4e8b65(0x1b8)]=_0x4e8b65(0x2be);}),_0x28329c['querySelector'](_0x5c12d8(0x1b6))['addEventListener'](_0x5c12d8(0x260),()=>clearInterval(_0x1a5007));}function initPaint(_0x7ae2b2){const _0x2437e8=_0x1d838c,_0x562fa5=_0x7ae2b2[_0x2437e8(0x1d4)](_0x2437e8(0x217)),_0x1ad9e7=_0x562fa5[_0x2437e8(0x29c)]('2d');_0x1ad9e7[_0x2437e8(0x1e2)]=_0x2437e8(0x20c),_0x1ad9e7[_0x2437e8(0x281)](0x0,0x0,_0x562fa5['width'],_0x562fa5[_0x2437e8(0x1c2)]);const _0x56c81a=['#ecebe6',_0x2437e8(0x2db),_0x2437e8(0x25d),_0x2437e8(0x2e9),_0x2437e8(0x1bf),_0x2437e8(0x1b3)],_0x2ea829=_0x7ae2b2[_0x2437e8(0x1d4)](_0x2437e8(0x21d));let _0xa0e271=_0x56c81a[0x0],_0x13ffec=0x5;_0x56c81a['forEach']((_0x2cb37f,_0x1ec785)=>{const _0x4faa4e=_0x2437e8,_0x3d4e1c=document['createElement'](_0x4faa4e(0x1c5));_0x3d4e1c[_0x4faa4e(0x1cf)]=_0x4faa4e(0x2d4)+(_0x1ec785===0x0?_0x4faa4e(0x26a):''),_0x3d4e1c['style'][_0x4faa4e(0x26f)]=_0x2cb37f,_0x3d4e1c[_0x4faa4e(0x207)]('click',()=>{const _0x2d1e36=_0x4faa4e;_0x2ea829[_0x2d1e36(0x2d5)](_0x2d1e36(0x196))['forEach'](_0x4b82ba=>_0x4b82ba['classList'][_0x2d1e36(0x288)](_0x2d1e36(0x279))),_0x3d4e1c[_0x2d1e36(0x2ed)]['add']('active'),_0xa0e271=_0x2cb37f;}),_0x2ea829[_0x4faa4e(0x212)](_0x3d4e1c);}),_0x7ae2b2[_0x2437e8(0x2d5)](_0x2437e8(0x198))['forEach'](_0x18ced3=>{const _0x274598=_0x2437e8;_0x18ced3[_0x274598(0x207)](_0x274598(0x260),()=>{const _0x1aee5f=_0x274598;_0x7ae2b2['querySelectorAll'](_0x1aee5f(0x198))['forEach'](_0x948c10=>_0x948c10['classList'][_0x1aee5f(0x288)](_0x1aee5f(0x279))),_0x18ced3[_0x1aee5f(0x2ed)][_0x1aee5f(0x1e5)](_0x1aee5f(0x279)),_0x13ffec=parseInt(_0x18ced3[_0x1aee5f(0x2d1)][_0x1aee5f(0x242)],0xa);});}),_0x7ae2b2[_0x2437e8(0x1d4)](_0x2437e8(0x245))[_0x2437e8(0x207)](_0x2437e8(0x260),()=>{const _0x3a6036=_0x2437e8;_0x1ad9e7[_0x3a6036(0x1e2)]=_0x3a6036(0x20c),_0x1ad9e7[_0x3a6036(0x281)](0x0,0x0,_0x562fa5['width'],_0x562fa5[_0x3a6036(0x1c2)]);});let _0x45457d=![];function _0x5c4c3b(_0x12b47c){const _0x3ebdca=_0x2437e8,_0x256a6b=_0x562fa5[_0x3ebdca(0x1d3)](),_0x13eae9=(_0x12b47c[_0x3ebdca(0x27a)]?_0x12b47c[_0x3ebdca(0x27a)][0x0][_0x3ebdca(0x1b0)]:_0x12b47c[_0x3ebdca(0x1b0)])-_0x256a6b[_0x3ebdca(0x296)],_0x59e7bd=(_0x12b47c[_0x3ebdca(0x27a)]?_0x12b47c['touches'][0x0]['clientY']:_0x12b47c['clientY'])-_0x256a6b['top'];return{'x':_0x13eae9*(_0x562fa5[_0x3ebdca(0x299)]/_0x256a6b[_0x3ebdca(0x299)]),'y':_0x59e7bd*(_0x562fa5[_0x3ebdca(0x1c2)]/_0x256a6b['height'])};}function _0x3f5f9c(_0x1dbc01){_0x45457d=!![],_0x2f71f4(_0x1dbc01);}function _0x2c97b4(){const _0x1c8d16=_0x2437e8;_0x45457d=![],_0x1ad9e7[_0x1c8d16(0x1a7)]();}function _0x2f71f4(_0x51a2bd){const _0x1eedcc=_0x2437e8;if(!_0x45457d)return;const _0x3f10b3=_0x5c4c3b(_0x51a2bd);_0x1ad9e7[_0x1eedcc(0x2b9)]=_0x13ffec,_0x1ad9e7[_0x1eedcc(0x2a5)]=_0x1eedcc(0x18d),_0x1ad9e7[_0x1eedcc(0x2ee)]=_0xa0e271,_0x1ad9e7[_0x1eedcc(0x1d2)](_0x3f10b3['x'],_0x3f10b3['y']),_0x1ad9e7[_0x1eedcc(0x1ef)](),_0x1ad9e7['beginPath'](),_0x1ad9e7[_0x1eedcc(0x200)](_0x3f10b3['x'],_0x3f10b3['y']),_0x51a2bd[_0x1eedcc(0x230)]();}_0x562fa5[_0x2437e8(0x207)](_0x2437e8(0x227),_0x3f5f9c),_0x562fa5['addEventListener'](_0x2437e8(0x1ee),_0x2f71f4),window['addEventListener'](_0x2437e8(0x20e),_0x2c97b4),_0x562fa5[_0x2437e8(0x207)](_0x2437e8(0x2cb),_0x3f5f9c,{'passive':![]}),_0x562fa5[_0x2437e8(0x207)](_0x2437e8(0x1e4),_0x2f71f4,{'passive':![]}),_0x562fa5[_0x2437e8(0x207)](_0x2437e8(0x1a0),_0x2c97b4);}const snakeGames={};let activeSnakeId=null;function initSnake(_0x25496d,_0x334508){const _0xe08887=_0x1d838c,_0x1981e5=_0x25496d['querySelector'](_0xe08887(0x2e3)),_0x26e113=_0x1981e5[_0xe08887(0x29c)]('2d'),_0x5d4721=_0x25496d[_0xe08887(0x1d4)]('.snake-score'),_0x232e81=_0x25496d[_0xe08887(0x1d4)](_0xe08887(0x1a1)),_0x22ec8b=0xc,_0x34fe7e=_0x1981e5['width']/_0x22ec8b,_0x31066d=_0x1981e5['height']/_0x22ec8b,_0x2d6059={'snake':[{'x':0x7,'y':0x7},{'x':0x6,'y':0x7},{'x':0x5,'y':0x7}],'dir':{'x':0x1,'y':0x0},'nextDir':{'x':0x1,'y':0x0},'food':{'x':0xa,'y':0xa},'running':![],'over':![],'score':0x0,'interval':null};snakeGames[_0x334508]=_0x2d6059;function _0x4a168c(){const _0x541f63=_0xe08887;_0x2d6059[_0x541f63(0x1ba)]={'x':Math[_0x541f63(0x2aa)](Math[_0x541f63(0x251)]()*_0x34fe7e),'y':Math[_0x541f63(0x2aa)](Math[_0x541f63(0x251)]()*_0x31066d)};}function _0x277b15(){const _0x2d2830=_0xe08887;_0x26e113[_0x2d2830(0x1e2)]=_0x2d2830(0x20c),_0x26e113[_0x2d2830(0x281)](0x0,0x0,_0x1981e5['width'],_0x1981e5[_0x2d2830(0x1c2)]),_0x26e113[_0x2d2830(0x1e2)]=_0x2d2830(0x2e9),_0x26e113[_0x2d2830(0x281)](_0x2d6059['food']['x']*_0x22ec8b,_0x2d6059[_0x2d2830(0x1ba)]['y']*_0x22ec8b,_0x22ec8b-0x1,_0x22ec8b-0x1),_0x26e113[_0x2d2830(0x1e2)]=_0x2d2830(0x25d),_0x2d6059[_0x2d2830(0x1a2)][_0x2d2830(0x25c)]((_0x1278ef,_0x366c68)=>{const _0x5796d0=_0x2d2830;_0x26e113[_0x5796d0(0x1e2)]=_0x366c68===0x0?'#e6c583':'#6cc491',_0x26e113[_0x5796d0(0x281)](_0x1278ef['x']*_0x22ec8b,_0x1278ef['y']*_0x22ec8b,_0x22ec8b-0x1,_0x22ec8b-0x1);});}function _0x9bf88a(){const _0x30d17d=_0xe08887;_0x2d6059[_0x30d17d(0x286)]=_0x2d6059[_0x30d17d(0x2a6)];const _0x1b1312={'x':_0x2d6059['snake'][0x0]['x']+_0x2d6059['dir']['x'],'y':_0x2d6059[_0x30d17d(0x1a2)][0x0]['y']+_0x2d6059[_0x30d17d(0x286)]['y']};if(_0x1b1312['x']<0x0||_0x1b1312['y']<0x0||_0x1b1312['x']>=_0x34fe7e||_0x1b1312['y']>=_0x31066d||_0x2d6059[_0x30d17d(0x1a2)][_0x30d17d(0x1f1)](_0x585368=>_0x585368['x']===_0x1b1312['x']&&_0x585368['y']===_0x1b1312['y'])){_0x2d6059[_0x30d17d(0x1aa)]=![],_0x2d6059[_0x30d17d(0x26b)]=!![],clearInterval(_0x2d6059[_0x30d17d(0x291)]),_0x232e81['textContent']=_0x30d17d(0x23c);return;}_0x2d6059[_0x30d17d(0x1a2)]['unshift'](_0x1b1312),_0x1b1312['x']===_0x2d6059[_0x30d17d(0x1ba)]['x']&&_0x1b1312['y']===_0x2d6059[_0x30d17d(0x1ba)]['y']?(_0x2d6059[_0x30d17d(0x184)]++,_0x5d4721[_0x30d17d(0x1b8)]=_0x2d6059[_0x30d17d(0x184)],_0x4a168c()):_0x2d6059['snake'][_0x30d17d(0x1ad)](),_0x277b15();}function _0x43b0aa(){const _0x440e3d=_0xe08887;if(_0x2d6059[_0x440e3d(0x1aa)])return;_0x2d6059[_0x440e3d(0x1a2)]=[{'x':0x7,'y':0x7},{'x':0x6,'y':0x7},{'x':0x5,'y':0x7}],_0x2d6059[_0x440e3d(0x286)]={'x':0x1,'y':0x0},_0x2d6059[_0x440e3d(0x2a6)]={'x':0x1,'y':0x0},_0x2d6059[_0x440e3d(0x184)]=0x0,_0x5d4721[_0x440e3d(0x1b8)]=0x0,_0x2d6059[_0x440e3d(0x26b)]=![],_0x2d6059[_0x440e3d(0x1aa)]=!![],_0x4a168c(),_0x232e81[_0x440e3d(0x1b8)]=_0x440e3d(0x297),clearInterval(_0x2d6059['interval']),_0x2d6059['interval']=setInterval(_0x9bf88a,0x82);}_0x277b15(),_0x25496d['addEventListener'](_0xe08887(0x227),()=>activeSnakeId=_0x334508),_0x25496d['addEventListener'](_0xe08887(0x2cb),()=>activeSnakeId=_0x334508),activeSnakeId=_0x334508,_0x2d6059[_0xe08887(0x18a)]=_0x43b0aa,_0x25496d[_0xe08887(0x1d4)](_0xe08887(0x1b6))[_0xe08887(0x207)](_0xe08887(0x260),()=>{const _0x4ffe25=_0xe08887;clearInterval(_0x2d6059[_0x4ffe25(0x291)]),delete snakeGames[_0x334508];if(activeSnakeId===_0x334508)activeSnakeId=null;});}function initCalc(_0x3c8729){const _0x46b782=_0x1d838c,_0xd354f3=_0x3c8729[_0x46b782(0x1d4)]('.calc-display');let _0x168e0e='0',_0x23b06c=null,_0x94ea44=null,_0x1093b6=!![];function _0x4c6785(){_0xd354f3['textContent']=_0x168e0e;}function _0x33e20c(){const _0x25b83a=_0x46b782;if(_0x23b06c===null||_0x94ea44===null)return;const _0x5d4040=parseFloat(_0x23b06c),_0x23ce7d=parseFloat(_0x168e0e);let _0x58ea77=_0x23ce7d;if(_0x94ea44==='+')_0x58ea77=_0x5d4040+_0x23ce7d;if(_0x94ea44==='-')_0x58ea77=_0x5d4040-_0x23ce7d;if(_0x94ea44==='*')_0x58ea77=_0x5d4040*_0x23ce7d;if(_0x94ea44==='/')_0x58ea77=_0x23ce7d===0x0?0x0:_0x5d4040/_0x23ce7d;_0x168e0e=String(Math[_0x25b83a(0x18d)](_0x58ea77*0x5f5e100)/0x5f5e100);}_0x3c8729[_0x46b782(0x2d5)](_0x46b782(0x2b2))[_0x46b782(0x25c)](_0x19ac52=>{const _0x28a1ce=_0x46b782;_0x19ac52[_0x28a1ce(0x207)](_0x28a1ce(0x260),()=>{const _0x58d128=_0x28a1ce,_0x2ff7dc=_0x19ac52[_0x58d128(0x2d1)]['key'];if(_0x2ff7dc==='=')_0x33e20c(),_0x23b06c=null,_0x94ea44=null,_0x1093b6=!![];else{if(['+','-','*','/'][_0x58d128(0x1ae)](_0x2ff7dc)){if(_0x23b06c!==null&&_0x94ea44!==null&&!_0x1093b6)_0x33e20c();_0x23b06c=_0x168e0e,_0x94ea44=_0x2ff7dc,_0x1093b6=!![];}else{if(_0x2ff7dc==='.'){if(_0x1093b6)_0x168e0e='0.',_0x1093b6=![];else{if(!_0x168e0e[_0x58d128(0x1ae)]('.'))_0x168e0e+='.';}}else{if(_0x1093b6||_0x168e0e==='0')_0x168e0e=_0x2ff7dc,_0x1093b6=![];else _0x168e0e+=_0x2ff7dc;}}}_0x4c6785();});}),_0x3c8729[_0x46b782(0x1d4)](_0x46b782(0x2bc))[_0x46b782(0x207)](_0x46b782(0x260),()=>{_0x168e0e='0',_0x23b06c=null,_0x94ea44=null,_0x1093b6=!![],_0x4c6785();});}document[_0x1d838c(0x207)](_0x1d838c(0x284),_0x1b43ff=>{const _0x40bae4=_0x1d838c;if(activeSnakeId&&snakeGames[activeSnakeId]){const _0x2c87b7=snakeGames[activeSnakeId],_0x7f8e28=document[_0x40bae4(0x257)]&&document['activeElement'][_0x40bae4(0x1e9)];if(_0x7f8e28!==_0x40bae4(0x218)&&_0x7f8e28!==_0x40bae4(0x1a5)){if(_0x1b43ff['key']==='\x20'){if(!_0x2c87b7[_0x40bae4(0x1aa)])_0x2c87b7[_0x40bae4(0x18a)]();_0x1b43ff[_0x40bae4(0x230)]();}_0x1b43ff[_0x40bae4(0x2bd)]===_0x40bae4(0x2a4)&&_0x2c87b7[_0x40bae4(0x286)]['y']===0x0&&(_0x2c87b7[_0x40bae4(0x2a6)]={'x':0x0,'y':-0x1},_0x1b43ff[_0x40bae4(0x230)]()),_0x1b43ff[_0x40bae4(0x2bd)]===_0x40bae4(0x210)&&_0x2c87b7['dir']['y']===0x0&&(_0x2c87b7[_0x40bae4(0x2a6)]={'x':0x0,'y':0x1},_0x1b43ff['preventDefault']()),_0x1b43ff[_0x40bae4(0x2bd)]===_0x40bae4(0x28b)&&_0x2c87b7[_0x40bae4(0x286)]['x']===0x0&&(_0x2c87b7[_0x40bae4(0x2a6)]={'x':-0x1,'y':0x0},_0x1b43ff[_0x40bae4(0x230)]()),_0x1b43ff['key']==='ArrowRight'&&_0x2c87b7[_0x40bae4(0x286)]['x']===0x0&&(_0x2c87b7['nextDir']={'x':0x1,'y':0x0},_0x1b43ff[_0x40bae4(0x230)]());}}}),document[_0x1d838c(0x207)](_0x1d838c(0x284),_0x35f877=>{const _0xe6f3c2=_0x1d838c,_0x46a258=document[_0xe6f3c2(0x257)]&&document[_0xe6f3c2(0x257)][_0xe6f3c2(0x1e9)];if(_0x46a258==='INPUT'||_0x46a258===_0xe6f3c2(0x1a5))return;_0x35f877[_0xe6f3c2(0x2bd)][_0xe6f3c2(0x222)]===0x1&&(typedBuffer=(typedBuffer+_0x35f877[_0xe6f3c2(0x2bd)][_0xe6f3c2(0x220)]())[_0xe6f3c2(0x2a9)](-0x14),typedBuffer['includes'](CONFIG[_0xe6f3c2(0x1b5)]['keyword'])&&(revealHiddenIcon(_0xe6f3c2(0x237)),typedBuffer=''));});function triggerFinale(){const _0x10737a=_0x1d838c;if(puzzleSolved)return;puzzleSolved=!![],finaleFlash[_0x10737a(0x2ed)][_0x10737a(0x1e5)](_0x10737a(0x27e)),setTimeout(()=>finaleFlash[_0x10737a(0x2ed)][_0x10737a(0x288)](_0x10737a(0x27e)),0x4b0),setTimeout(openDossier,0x1f4);}let archiveOpened=![];function openArchiveWindow(){const _0x3ce0b7=_0x1d838c;if(archiveOpened)return;archiveOpened=!![];const _0x4781b8=document[_0x3ce0b7(0x208)](_0x3ce0b7(0x1c5));_0x4781b8[_0x3ce0b7(0x1cf)]=_0x3ce0b7(0x1c7),_0x4781b8[_0x3ce0b7(0x26c)][_0x3ce0b7(0x299)]=_0x3ce0b7(0x225),_0x4781b8[_0x3ce0b7(0x26c)][_0x3ce0b7(0x1c2)]=_0x3ce0b7(0x24d),_0x4781b8['style']['left']=_0x3ce0b7(0x283),_0x4781b8[_0x3ce0b7(0x26c)]['top']=_0x3ce0b7(0x2e8),_0x4781b8[_0x3ce0b7(0x26c)]['zIndex']=++zCounter,_0x4781b8[_0x3ce0b7(0x2b5)]=_0x3ce0b7(0x19f)+CONFIG[_0x3ce0b7(0x1b5)][_0x3ce0b7(0x221)]+_0x3ce0b7(0x19d),_0x4781b8[_0x3ce0b7(0x1d4)](_0x3ce0b7(0x1b6))[_0x3ce0b7(0x207)](_0x3ce0b7(0x260),()=>_0x4781b8[_0x3ce0b7(0x288)]()),makeDraggable(_0x4781b8,_0x4781b8['querySelector'](_0x3ce0b7(0x24f))),makeResizable(_0x4781b8,_0x4781b8[_0x3ce0b7(0x1d4)](_0x3ce0b7(0x1fa)),0x104,0xa0),windowsLayer['appendChild'](_0x4781b8);}function openDossier(){const _0x20adb8=_0x1d838c,_0xdc4911=document[_0x20adb8(0x208)](_0x20adb8(0x1c5));_0xdc4911[_0x20adb8(0x1cf)]=_0x20adb8(0x1c7),_0xdc4911[_0x20adb8(0x26c)][_0x20adb8(0x299)]=_0x20adb8(0x225),_0xdc4911[_0x20adb8(0x26c)]['height']=_0x20adb8(0x1ed),_0xdc4911['style']['left']='50%',_0xdc4911['style'][_0x20adb8(0x236)]=_0x20adb8(0x1d7),_0xdc4911[_0x20adb8(0x26c)]['transform']='translate(-50%,-50%)',_0xdc4911[_0x20adb8(0x26c)][_0x20adb8(0x21f)]=++zCounter,_0xdc4911[_0x20adb8(0x2b5)]='\x0a\x20\x20\x20\x20<div\x20class=\x22win-titlebar\x22>\x0a\x20\x20\x20\x20\x20\x20<span\x20class=\x22win-title-text\x22>CASE\x20FILE\x20—\x20CLOSED</span>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22win-controls\x22><span\x20class=\x22win-close\x22\x20title=\x22Close\x22>×</span></div>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20<div\x20class=\x22win-body\x22\x20style=\x22overflow:auto;\x22>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22dossier-body\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20class=\x22dossier-seal\x22\x20width=\x2270\x22\x20height=\x2270\x22\x20viewBox=\x220\x200\x20100\x20100\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2250\x22\x20cy=\x2250\x22\x20r=\x2246\x22\x20fill=\x22none\x22\x20stroke=\x22#6cc491\x22\x20stroke-width=\x222\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2250\x22\x20cy=\x2250\x22\x20r=\x2234\x22\x20fill=\x22none\x22\x20stroke=\x22#6cc491\x22\x20stroke-width=\x221\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M50,26\x20L56,42\x20L74,42\x20L59,52\x20L65,70\x20L50,59\x20L35,70\x20L41,52\x20L26,42\x20L44,42\x20Z\x22\x20fill=\x22#6cc491\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dossier-title\x22>CLEARANCE\x20ELEVATED</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dossier-sub\x22>CASE\x20NOCTURNE\x20—\x20RESOLVED</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dossier-line\x22>Field\x20designation\x20confirmed\x20via\x20ROT-3\x20cipher.</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dossier-line\x22>Signal\x20anomaly\x20extracted\x20from\x20surveillance\x20imagery.</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dossier-line\x22>Credentials\x20cross-verified\x20against\x20archive\x20record.</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dossier-line\x22>Satellite\x20fix\x20corroborated\x20via\x20coordinate\x20cipher.</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dossier-line\x22>Binary\x20signal\x20and\x20mirrored\x20cipher\x20both\x20resolved.</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dossier-line\x22>Checksum\x20validated\x20against\x20field\x20designation.</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dossier-line\x22\x20style=\x22margin-top:14px;color:#6cc491;\x22>All\x20layers\x20decrypted.\x20Session\x20complete.</div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20',_0xdc4911[_0x20adb8(0x1d4)](_0x20adb8(0x1b6))[_0x20adb8(0x207)]('click',()=>_0xdc4911[_0x20adb8(0x288)]()),makeDraggable(_0xdc4911,_0xdc4911[_0x20adb8(0x1d4)](_0x20adb8(0x24f))),windowsLayer[_0x20adb8(0x212)](_0xdc4911);}sealScreen[_0x1d838c(0x207)](_0x1d838c(0x260),startSequence),document[_0x1d838c(0x278)](_0x1d838c(0x1ac))[_0x1d838c(0x207)](_0x1d838c(0x260),()=>{const _0x18298c=_0x1d838c;sequenceRunning=![],puzzleSolved=![],archiveOpened=![],typedBuffer='',Object[_0x18298c(0x1e8)](snakeGames)['forEach'](_0x4131a5=>{const _0x47b710=_0x18298c;clearInterval(snakeGames[_0x4131a5][_0x47b710(0x291)]),delete snakeGames[_0x4131a5];}),activeSnakeId=null,CONFIG[_0x18298c(0x1fe)][_0x18298c(0x25c)](_0x1c177b=>{const _0x5262d8=_0x18298c;if(_0x1c177b[_0x5262d8(0x1bc)]===_0x5262d8(0x237))_0x1c177b[_0x5262d8(0x28e)]=!![];}),desktop['classList']['remove'](_0x18298c(0x21e),'visible'),bootScreen[_0x18298c(0x2ed)][_0x18298c(0x288)](_0x18298c(0x21e)),windowsLayer[_0x18298c(0x2b5)]='',taskbarApps[_0x18298c(0x2b5)]='',Object[_0x18298c(0x1e8)](openWindows)[_0x18298c(0x25c)](_0x48f998=>delete openWindows[_0x48f998]),sealScreen[_0x18298c(0x2ed)][_0x18298c(0x288)](_0x18298c(0x238)),sealScreen[_0x18298c(0x26c)][_0x18298c(0x24c)]='flex',requestAnimationFrame(()=>sealScreen[_0x18298c(0x2ed)]['remove'](_0x18298c(0x28e)));});
+const CONFIG = {
+  seal: {
+    title: "SECURE ACCESS TERMINAL",
+    subtitle: "CLASSIFICATION: TOP SECRET // NOFORN",
+    hint: "CLICK TO AUTHENTICATE",
+    warning: "UNAUTHORIZED ACCESS IS A FEDERAL OFFENSE",
+    starCount: 13
+  },
+
+  bootLines: [
+    { text: "admiralOS — REV 1.21.5", cls: "accent" },
+    { text: "(C) Directorate of Science & Technology", cls: "dim" },
+    "",
+    "CPU  : QUAD-CORE SECURE ENCLAVE @ 3.9GHz",
+    "MEM  : 65,536 MB ......... OK",
+    "TPM  : HARDWARE KEY VERIFIED",
+    "",
+    "DISK 0  : ENCRYPTED VOLUME  512GB  [AES-256]",
+    "DISK 1  : ARCHIVE VOLUME   2.0TB  [OFFLINE]",
+    "NET  0  : SECURE LINK ......... ESTABLISHED",
+    { text: `SIG  0  : ${PUZZLE_ANSWERS.bootBinary}`, cls: "dim" },
+    "",
+    { text: "RUNNING INTEGRITY CHECK...", cls: "accent" },
+    { text: "VERIFYING CREDENTIALS...", cls: "accent", holdAfter: 1200 },
+    { text: "SESSION INITIALIZED.", cls: "accent", holdAfter: 700 }
+  ],
+
+  icons: [
+    { glyph: "▣", label: "My Computer",    app: "mypc" },
+    { glyph: "▶", label: "Command Prompt", app: "cmd" },
+    { glyph: "✎", label: "Notepad",        app: "notepad" },
+    { glyph: "▧", label: "Recon Grid",     app: "recon" },
+    { glyph: "◐", label: "Paint",          app: "paint" },
+    { glyph: "▲", label: "Snake.exe",      app: "snake" },
+    { glyph: "▦", label: "Calculator",     app: "calc" },
+    { glyph: "◈", label: "SURVEILLANCE.PNG", app: "imgview", hidden: true }
+  ],
+
+  notes: [
+    {
+      color: "yellow", top: 40, left: "62%",
+      stamp: "SIGINT",
+      lines: [ "the terminal listens", "for riddles, if asked" ]
+    },
+    {
+      color: "yellow", top: 40, left: "78%",
+      stamp: null,
+      lines: [ [{cipher: PUZZLE_ANSWERS.morsePayload}], "signal designation —", "translate the dots" ]
+    },
+    {
+      color: "yellow", top: 250, left: "78%",
+      stamp: null,
+      lines: [
+        [{redact:"████████"}, " status —"],
+        "pending review",
+        [ "contact: ", {redact:"███████"} ]
+      ]
+    }
+  ],
+
+  apps: {
+    mypc: {
+      title: "MY COMPUTER",
+      width: 400, height: 320,
+      drives: [
+        { glyph: "▣", label: "Encrypted Volume (C:)", info: "512 GB — 118 GB free", used: 77,
+          meta: `OWNER: ADMIRAL7\nCREATED: 1991-04-02\nCOMMENT: ${PUZZLE_ANSWERS.metadataComment}` },
+        { glyph: "▤", label: "Archive Volume (D:)",   info: "2.0 TB — offline",     used: 0,
+          meta: "OWNER: UNKNOWN\nCREATED: —\nCOMMENT: (offline)" },
+        { glyph: "▥", label: "Secure Share (E:)",     info: "Network drive",        used: 34,
+          meta: "OWNER: FIELD OPS\nCREATED: 2019-11-02\nCOMMENT: standard issue" }
+      ]
+    },
+    cmd: {
+      title: "COMMAND PROMPT",
+      width: 480, height: 320,
+      prompt: "C:\\SECURE>",
+      banner: "admiralOS TERMINAL [Rev 1.21.5]\nType HELP for a list of commands.\n"
+    },
+    notepad: {
+      title: "NOTEPAD",
+      width: 440, height: 300,
+      placeholder: "Untitled — type to begin...",
+      content: PUZZLE_ANSWERS.anomalyParagraph
+    },
+    imgview: {
+      title: "IMAGE VIEWER",
+      width: 340, height: 320
+    },
+    recon: {
+      title: "RECON GRID",
+      width: 340, height: 220
+    },
+    paint: {
+      title: "PAINT",
+      width: 440, height: 380
+    },
+    snake: {
+      title: "SNAKE.EXE",
+      width: 300, height: 360
+    },
+    calc: {
+      title: "CALCULATOR",
+      width: 240, height: 320
+    }
+  },
+
+  taskbarClock: null,
+  use24hClock: false,
+
+  timing: { bootLineDelay: 170, postBootHold: 900, glitchDuration: 400 },
+
+  puzzle: PUZZLE_ANSWERS
+};
+
+const sealScreen   = document.getElementById('seal-screen');
+const bootScreen   = document.getElementById('boot-screen');
+const bootLinesEl  = document.getElementById('boot-lines');
+const desktop      = document.getElementById('desktop');
+const windowsLayer = document.getElementById('windows-layer');
+const taskbarApps  = document.getElementById('taskbar-apps');
+const toastLayer   = document.getElementById('toast-layer');
+const finaleFlash  = document.getElementById('finale-flash');
+
+document.getElementById('seal-title').textContent    = CONFIG.seal.title;
+document.getElementById('seal-subtitle').textContent = CONFIG.seal.subtitle;
+document.getElementById('seal-hint').textContent     = CONFIG.seal.hint;
+document.getElementById('seal-warn').textContent     = CONFIG.seal.warning;
+
+let sequenceRunning = false;
+let zCounter = 100;
+let openWindowCount = 0;
+let puzzleSolved = false;
+
+(function drawStarRing(){
+  const g = document.getElementById('star-ring');
+  const n = CONFIG.seal.starCount;
+  const r = 82;
+  for(let i=0;i<n;i++){
+    const angle = (i / n) * Math.PI * 2 - Math.PI/2;
+    const cx = 120 + r * Math.cos(angle);
+    const cy = 120 + r * Math.sin(angle);
+    const c = document.createElementNS('http://www.w3.org/2000/svg','circle');
+    c.setAttribute('cx', cx.toFixed(2));
+    c.setAttribute('cy', cy.toFixed(2));
+    c.setAttribute('r', 1.6);
+    g.appendChild(c);
+  }
+})();
+
+function startSequence(){
+  if(sequenceRunning) return;
+  sequenceRunning = true;
+  sealScreen.classList.add('glitching');
+  setTimeout(()=> sealScreen.classList.add('hidden'), CONFIG.timing.glitchDuration - 100);
+  setTimeout(()=>{
+    sealScreen.style.display = 'none';
+    runBoot();
+  }, CONFIG.timing.glitchDuration + 300);
+}
+
+function runBoot(){
+  bootLinesEl.innerHTML = "";
+  bootScreen.classList.add('show');
+  let delayAcc = 0;
+
+  CONFIG.bootLines.forEach((raw)=>{
+    const isObj = typeof raw === 'object';
+    const text = isObj ? raw.text : raw;
+    const cls = isObj && raw.cls ? raw.cls : "";
+    const extraHold = isObj && raw.holdAfter ? raw.holdAfter : 0;
+    const span = document.createElement('span');
+    span.textContent = text;
+    if(cls) span.className = cls;
+    span.style.animationDelay = delayAcc + 'ms';
+    bootLinesEl.appendChild(span);
+    delayAcc += CONFIG.timing.bootLineDelay + extraHold;
+  });
+
+  const cursor = document.createElement('span');
+  cursor.innerHTML = '<span class="boot-cursor"></span>';
+  cursor.style.animationDelay = delayAcc + 'ms';
+  bootLinesEl.appendChild(cursor);
+
+  setTimeout(loadDesktop, delayAcc + CONFIG.timing.postBootHold);
+}
+
+function loadDesktop(){
+  buildIcons();
+  buildNotes();
+  startClock();
+  startGeoJitter();
+
+  desktop.classList.add('show');
+  bootScreen.classList.remove('show');
+  requestAnimationFrame(()=> requestAnimationFrame(()=> desktop.classList.add('visible')));
+}
+
+function startClock(){
+  const clockEl = document.getElementById('clock');
+  if(CONFIG.taskbarClock){ clockEl.textContent = CONFIG.taskbarClock; return; }
+  function tick(){
+    const d = new Date();
+    let h = d.getHours();
+    const m = d.getMinutes().toString().padStart(2,'0');
+    let suffix = '';
+    if(!CONFIG.use24hClock){ suffix = h >= 12 ? ' PM' : ' AM'; h = h % 12; if(h === 0) h = 12; }
+    clockEl.textContent = `${h}:${m}${suffix}`;
+  }
+  tick();
+  setInterval(tick, 15000);
+}
+
+function startGeoJitter(){
+  const el = document.getElementById('geo-readout');
+  const baseLat = 38.9517, baseLon = -77.1467;
+  setInterval(()=>{
+    const lat = (baseLat + (Math.random()-0.5)*0.0006).toFixed(4);
+    const lon = (Math.abs(baseLon) + (Math.random()-0.5)*0.0006).toFixed(4);
+    el.textContent = `${lat} N, ${lon} W`;
+  }, 2200);
+}
+
+function buildIcons(){
+  const grid = document.getElementById('icon-grid');
+  grid.innerHTML = "";
+  CONFIG.icons.forEach(ic=>{
+    if(ic.hidden) return;
+    grid.appendChild(makeIconEl(ic));
+  });
+}
+function makeIconEl(ic){
+  const el = document.createElement('div');
+  el.className = 'desk-icon';
+  el.innerHTML = `<div class="glyph">${ic.glyph}</div><div class="label">${ic.label}</div>`;
+  el.addEventListener('click', ()=> openApp(ic.app));
+  el.addEventListener('dblclick', ()=> openApp(ic.app));
+  return el;
+}
+function revealHiddenIcon(appKey){
+  const ic = CONFIG.icons.find(i=> i.app === appKey);
+  if(!ic || !ic.hidden) return;
+  ic.hidden = false;
+  document.getElementById('icon-grid').appendChild(makeIconEl(ic));
+  showToast('SIGNAL DETECTED — NEW ASSET AVAILABLE');
+}
+
+function renderLineParts(parts){
+  if(typeof parts === 'string') return escapeHtml(parts);
+  return parts.map(p=>{
+    if(typeof p === 'string') return escapeHtml(p);
+    if(p.redact) return `<span class="redact">${escapeHtml(p.redact)}</span>`;
+    if(p.cipher) return `<span class="cipher">${escapeHtml(p.cipher)}</span>`;
+    return "";
+  }).join("");
+}
+function escapeHtml(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+function buildNotes(){
+  const layer = document.getElementById('notes-layer');
+  layer.innerHTML = "";
+  CONFIG.notes.forEach(n=>{
+    const el = document.createElement('div');
+    el.className = 'sticky ' + (n.color || 'yellow');
+    el.style.top = n.top + 'px';
+    el.style.left = n.left;
+    const stampHtml = n.stamp ? `<div class="stamp">${escapeHtml(n.stamp)}</div><br>` : '';
+    const bodyHtml = n.lines.map(l=>renderLineParts(l)).join('<br>');
+    el.innerHTML = `<div class="titlebar"><span>MEMO</span><span class="note-close">×</span></div><div class="body">${stampHtml}${bodyHtml}</div>`;
+    el.querySelector('.note-close').addEventListener('click', (e)=>{ e.stopPropagation(); el.remove(); });
+    makeDraggable(el, el.querySelector('.titlebar'));
+    layer.appendChild(el);
+  });
+}
+
+function makeDraggable(el, handle, onMoveStart){
+  let startX, startY, startLeft, startTop, dragging = false;
+  function beginDrag(clientX, clientY){
+    dragging = true;
+    el.classList.add('dragging');
+    el.style.zIndex = ++zCounter;
+    if(onMoveStart) onMoveStart();
+    const rect = el.getBoundingClientRect();
+    const parentRect = el.parentElement.getBoundingClientRect();
+    startLeft = rect.left - parentRect.left;
+    startTop  = rect.top - parentRect.top;
+    el.style.left = startLeft + 'px';
+    el.style.top  = startTop + 'px';
+    startX = clientX; startY = clientY;
+  }
+  handle.addEventListener('mousedown', (e)=>{ beginDrag(e.clientX, e.clientY); e.preventDefault(); });
+  window.addEventListener('mousemove', (e)=>{
+    if(!dragging) return;
+    el.style.left = (startLeft + (e.clientX - startX)) + 'px';
+    el.style.top  = (startTop + (e.clientY - startY)) + 'px';
+  });
+  window.addEventListener('mouseup', ()=>{ if(!dragging) return; dragging = false; el.classList.remove('dragging'); });
+
+  handle.addEventListener('touchstart', (e)=>{ const t = e.touches[0]; beginDrag(t.clientX, t.clientY); }, {passive:true});
+  window.addEventListener('touchmove', (e)=>{
+    if(!dragging) return;
+    const t = e.touches[0];
+    el.style.left = (startLeft + (t.clientX - startX)) + 'px';
+    el.style.top  = (startTop + (t.clientY - startY)) + 'px';
+  }, {passive:true});
+  window.addEventListener('touchend', ()=>{ dragging = false; el.classList.remove('dragging'); });
+}
+
+function makeResizable(el, handle, minW, minH){
+  let startX, startY, startW, startH, resizing = false;
+  handle.addEventListener('mousedown', (e)=>{
+    resizing = true; startX = e.clientX; startY = e.clientY;
+    const rect = el.getBoundingClientRect(); startW = rect.width; startH = rect.height;
+    e.stopPropagation(); e.preventDefault();
+  });
+  window.addEventListener('mousemove', (e)=>{
+    if(!resizing) return;
+    el.style.width = Math.max(minW, startW + (e.clientX - startX)) + 'px';
+    el.style.height = Math.max(minH, startH + (e.clientY - startY)) + 'px';
+  });
+  window.addEventListener('mouseup', ()=> resizing = false);
+}
+
+function showToast(text){
+  const t = document.createElement('div');
+  t.className = 'toast';
+  t.textContent = text;
+  toastLayer.appendChild(t);
+  setTimeout(()=> t.remove(), 3600);
+}
+
+let openOffset = 0;
+const openWindows = {};
+
+function openApp(appKey){
+  if(!appKey || !CONFIG.apps[appKey]) return;
+  const cfg = CONFIG.apps[appKey];
+  const winId = 'win-' + (++openWindowCount);
+
+  const win = document.createElement('div');
+  win.className = 'app-window';
+  win.dataset.id = winId;
+  win.dataset.app = appKey;
+  win.style.width = cfg.width + 'px';
+  win.style.height = cfg.height + 'px';
+  win.style.left = (60 + openOffset) + 'px';
+  win.style.top  = (50 + openOffset) + 'px';
+  win.style.zIndex = ++zCounter;
+  openOffset = (openOffset + 28) % 140;
+
+  const bodyClassMap = { mypc:'mypc', notepad:'notepad', imgview:'imgview', recon:'recon', paint:'paint', snake:'snake', calc:'calc' };
+  const bodyClass = bodyClassMap[appKey] || 'cmd';
+
+  win.innerHTML = `
+    <div class="win-titlebar">
+      <span class="win-title-text">${cfg.title}</span>
+      <div class="win-controls">
+        <span class="win-min" title="Minimize">_</span>
+        <span class="win-close" title="Close">×</span>
+      </div>
+    </div>
+    <div class="win-body ${bodyClass}">${appBodyHtml(appKey, cfg)}</div>
+    <div class="resize-handle" title="Resize"></div>
+  `;
+
+  win.querySelector('.win-close').addEventListener('click', (e)=>{ e.stopPropagation(); win.remove(); removeTaskbarEntry(winId); });
+  win.querySelector('.win-min').addEventListener('click', (e)=>{ e.stopPropagation(); win.style.display = 'none'; });
+  win.addEventListener('mousedown', ()=>{ win.style.zIndex = ++zCounter; setActiveTaskbarEntry(winId); });
+
+  makeDraggable(win, win.querySelector('.win-titlebar'), ()=> setActiveTaskbarEntry(winId));
+  makeResizable(win, win.querySelector('.resize-handle'), 260, 160);
+
+  windowsLayer.appendChild(win);
+  addTaskbarEntry(winId, cfg.title, win);
+
+  if(appKey === 'cmd'){
+    const input = win.querySelector('.win-body.cmd input');
+    if(input) setTimeout(()=> input.focus(), 50);
+  }
+  if(appKey === 'imgview'){
+    initImageViewer(win);
+  }
+  if(appKey === 'recon'){
+    initRecon(win);
+  }
+  if(appKey === 'paint'){
+    initPaint(win);
+  }
+  if(appKey === 'snake'){
+    initSnake(win, winId);
+  }
+  if(appKey === 'calc'){
+    initCalc(win);
+  }
+  if(appKey === 'mypc'){
+    win.querySelectorAll('.drive').forEach(row=>{
+      row.style.cursor = 'pointer';
+      row.addEventListener('click', ()=>{
+        if(row.dataset.used === '0'){
+          showToast('VOLUME OFFLINE — MOUNT VIA TERMINAL');
+        }
+      });
+    });
+    win.querySelectorAll('.drive-info-btn').forEach(btn=>{
+      btn.addEventListener('click', (e)=>{
+        e.stopPropagation();
+        const meta = btn.closest('.drive').querySelector('.drive-meta');
+        meta.classList.toggle('show');
+      });
+    });
+  }
+}
+
+function addTaskbarEntry(winId, title, winEl){
+  const entry = document.createElement('div');
+  entry.className = 'taskbar-app active';
+  entry.textContent = title;
+  entry.dataset.id = winId;
+  entry.addEventListener('click', ()=>{
+    winEl.style.display = winEl.style.display === 'none' ? 'flex' : 'none';
+    winEl.style.zIndex = ++zCounter;
+    setActiveTaskbarEntry(winId);
+  });
+  taskbarApps.appendChild(entry);
+  openWindows[winId] = { el: winEl, taskbarEl: entry };
+  setActiveTaskbarEntry(winId);
+}
+function removeTaskbarEntry(winId){
+  const rec = openWindows[winId];
+  if(rec){ rec.taskbarEl.remove(); delete openWindows[winId]; }
+}
+function setActiveTaskbarEntry(winId){
+  Object.keys(openWindows).forEach(id=> openWindows[id].taskbarEl.classList.toggle('active', id === winId));
+}
+
+function appBodyHtml(appKey, cfg){
+  if(appKey === 'mypc'){
+    const rows = cfg.drives.map(d=>
+      `<div class="drive" data-used="${d.used}">
+         <div class="glyph">${d.glyph}</div>
+         <div style="flex:1;">
+           <div class="drive-row-head">
+             <div class="label">${d.label}</div>
+             <button class="drive-info-btn">ⓘ</button>
+           </div>
+           <div class="info">${d.info}</div>
+           <div class="bar-track"><div class="bar-fill" style="width:${d.used}%"></div></div>
+           <div class="drive-meta">${escapeHtml(d.meta || '').replace(/\n/g,'<br>')}</div>
+         </div>
+       </div>`
+    ).join('');
+    return `<div class="mypc-head">SYSTEM VOLUMES</div>${rows}`;
+  }
+  if(appKey === 'cmd'){
+    const banner = escapeHtml(cfg.banner || '');
+    return `<div class="cmd-history">${banner.split('\n').map(l=>`<div class="cmd-line">${l}</div>`).join('')}</div><div class="cmd-input-line"><span class="cmd-prompt">${escapeHtml(cfg.prompt)}&nbsp;</span><input type="text" autocomplete="off" spellcheck="false"></div>`;
+  }
+  if(appKey === 'notepad'){
+    return `<div class="notepad-wrap"><textarea placeholder="${escapeHtml(cfg.placeholder||'')}">${escapeHtml(cfg.content||'')}</textarea></div>`;
+  }
+  if(appKey === 'imgview'){
+    const wid = 'iv-' + openWindowCount;
+    return `<div class="imgview-wrap" data-canvas-id="${wid}">
+      <div class="imgview-canvas-holder"><canvas id="${wid}" width="240" height="140"></canvas></div>
+      <button class="imgview-btn">RUN ANALYSIS</button>
+      <div class="imgview-result">No anomalies flagged yet.</div>
+    </div>`;
+  }
+  if(appKey === 'recon'){
+    return `<div class="recon-wrap"><canvas class="recon-canvas" width="300" height="120"></canvas></div>`;
+  }
+  if(appKey === 'paint'){
+    return `<div class="paint-wrap">
+      <div class="paint-toolbar">
+        <div class="paint-swatches"></div>
+        <div class="paint-sizes">
+          <button class="paint-size-btn" data-size="2">S</button>
+          <button class="paint-size-btn active" data-size="5">M</button>
+          <button class="paint-size-btn" data-size="10">L</button>
+        </div>
+        <button class="paint-clear-btn">CLEAR</button>
+      </div>
+      <canvas class="paint-canvas" width="400" height="300"></canvas>
+    </div>`;
+  }
+  if(appKey === 'snake'){
+    return `<div class="snake-wrap">
+      <div class="snake-hud"><span>SCORE: <span class="snake-score">0</span></span></div>
+      <canvas class="snake-canvas" width="240" height="240"></canvas>
+      <div class="snake-status">USE ARROW KEYS — SPACE TO START</div>
+    </div>`;
+  }
+  if(appKey === 'calc'){
+    const keys = ['7','8','9','/','4','5','6','*','1','2','3','-','0','.','=','+'];
+    const keyHtml = keys.map(k=>`<button class="calc-key" data-key="${k}">${k}</button>`).join('');
+    return `<div class="calc-wrap">
+      <div class="calc-display">0</div>
+      <div class="calc-grid">${keyHtml}</div>
+      <button class="calc-clear">C</button>
+    </div>`;
+  }
+  return '';
+}
+
+const MORSE_TABLE = {
+  '.-':'A','-...':'B','-.-.':'C','-..':'D','.':'E','..-.':'F','--.':'G','....':'H','..':'I',
+  '.---':'J','-.-':'K','.-..':'L','--':'M','-.':'N','---':'O','.--.':'P','--.-':'Q','.-.':'R',
+  '...':'S','-':'T','..-':'U','...-':'V','.--':'W','-..-':'X','-.--':'Y','--..':'Z',
+  '-----':'0','.----':'1','..---':'2','...--':'3','....-':'4','.....':'5','-....':'6','--...':'7','---..':'8','----.':'9'
+};
+function morseDecode(code){
+  return code.trim().split(/\s+/).map(g=> g === '/' ? ' ' : (MORSE_TABLE[g] || '?')).join('');
+}
+function binaryDecode(bits){
+  const groups = bits.trim().split(/\s+/);
+  return groups.map(g=>{
+    if(!/^[01]{1,8}$/.test(g)) throw new Error('bad group');
+    return String.fromCharCode(parseInt(g,2));
+  }).join('');
+}
+function hexToStr(hex){
+  let out = '';
+  for(let i=0;i<hex.length;i+=2) out += String.fromCharCode(parseInt(hex.substr(i,2),16));
+  return out;
+}
+function autoDecode(str){
+  str = str.trim();
+  if(/^[0-9a-fA-F]+$/.test(str) && str.length % 2 === 0) return hexToStr(str);
+  if(/^[A-Za-z0-9+/]+=*$/.test(str) && str.length % 4 === 0){
+    try{ return atob(str); }catch(e){}
+  }
+  return "UNRECOGNIZED FORMAT.";
+}
+
+const CMD_HELP = [
+  "AVAILABLE COMMANDS:",
+  "  HELP               show this list",
+  "  DIR                list files in current volume",
+  "  WHOAMI             display current session identity",
+  "  DATE               display current date",
+  "  CLEAR              clear the screen",
+  "  ECHO [txt]         print text back",
+  "  AUTHENTICATE [code] verify field credentials",
+  "  EXIT               close this window"
+].join('\n');
+
+function runCommand(raw, cmdBody, win){
+  const trimmed = raw.trim();
+  const upper = trimmed.toUpperCase();
+  const parts = trimmed.split(' ');
+  const cmd = parts[0] ? parts[0].toUpperCase() : '';
+
+  if(cmd === 'HELP') return { text: CMD_HELP };
+  if(cmd === 'DIR') return { text: "Volume in drive C is SECURE\n\n  ops_log.txt\n  contacts.dat\n  readme.txt\n\n  3 File(s)" };
+  if(cmd === 'WHOAMI') return { text: "SECURE\\ANALYST" };
+  if(cmd === 'DATE') return { text: new Date().toString() };
+  if(cmd === 'ECHO') return { text: parts.slice(1).join(' ') };
+  if(cmd === 'DECODE'){
+    const payload = trimmed.slice(cmd.length).trim();
+    if(!payload) return { text: "USAGE: DECODE <text>", cls: "err" };
+    return { text: autoDecode(payload) };
+  }
+  if(cmd === 'MORSE'){
+    const payload = trimmed.slice(cmd.length).trim();
+    if(!payload) return { text: "USAGE: MORSE <code>", cls: "err" };
+    return { text: morseDecode(payload) };
+  }
+  if(cmd === 'BINARY'){
+    const payload = trimmed.slice(cmd.length).trim();
+    if(!payload) return { text: "USAGE: BINARY <bits>", cls: "err" };
+    try{ return { text: binaryDecode(payload) }; }
+    catch(e){ return { text: "MALFORMED BINARY INPUT.", cls: "err" }; }
+  }
+  if(cmd === 'TYPE'){
+    const filename = (parts[1] || '').toLowerCase();
+    if(filename === 'ops_log.txt') return { text: CONFIG.puzzle.acrosticFile };
+    if(filename === 'contacts.dat') return { text: CONFIG.puzzle.telestichFile };
+    if(filename === 'readme.txt') return { text: "No further documentation on file." };
+    return { text: `FILE NOT FOUND: ${parts[1] || ''}`, cls: "err" };
+  }
+  if(cmd === 'RIDDLE'){
+    return { text: CONFIG.puzzle.riddleText };
+  }
+  if(cmd === 'STATIONS'){
+    return { text: CONFIG.puzzle.stationsMap };
+  }
+  if(cmd === 'MOUNT'){
+    const target = (parts[1] || '').toUpperCase();
+    if(target !== 'ARCHIVE') return { text: `CANNOT MOUNT '${parts[1]||''}' — VOLUME NOT FOUND.`, cls: "err" };
+    openArchiveWindow();
+    return { text: "ARCHIVE VOLUME MOUNTED. INDEX WRITTEN TO DESKTOP.", cls: "ok" };
+  }
+  if(cmd === 'AUTHENTICATE'){
+    const code = parts.slice(1).join('').toUpperCase().replace(/[^A-Z0-9]/g, '');
+    if(!code) return { text: "USAGE: AUTHENTICATE <code>", cls: "err" };
+    if(code === CONFIG.puzzle.passphrase){
+      triggerFinale();
+      return { text: "ACCESS GRANTED. WELCOME BACK.", cls: "ok" };
+    }
+    return { text: "ACCESS DENIED — CREDENTIALS NOT RECOGNIZED.", cls: "err" };
+  }
+  if(cmd === 'CLEAR'){
+    const history = cmdBody.querySelector('.cmd-history');
+    if(history) history.innerHTML = '';
+    return null;
+  }
+  if(cmd === 'EXIT'){
+    win.remove();
+    removeTaskbarEntry(win.dataset.id);
+    return null;
+  }
+  if(trimmed === '') return null;
+  return { text: `'${trimmed}' is not recognized as an internal command.\nType HELP for a list of commands.`, cls: "err" };
+}
+
+windowsLayer.addEventListener('keydown', (e)=>{
+  if(e.target.matches('.win-body.cmd input') && e.key === 'Enter'){
+    const input = e.target;
+    const cmdBody = input.closest('.win-body.cmd');
+    const win = input.closest('.app-window');
+    const history = cmdBody.querySelector('.cmd-history');
+    const promptText = cmdBody.querySelector('.cmd-prompt').textContent;
+
+    const echo = document.createElement('div');
+    echo.className = 'cmd-line';
+    echo.textContent = promptText + input.value;
+    history.appendChild(echo);
+
+    const result = runCommand(input.value, cmdBody, win);
+    if(result && result.text){
+      result.text.split('\n').forEach(line=>{
+        const l = document.createElement('div');
+        l.className = 'cmd-line' + (result.cls ? ' ' + result.cls : '');
+        l.textContent = line;
+        history.appendChild(l);
+      });
+    }
+    input.value = '';
+    cmdBody.scrollTop = cmdBody.scrollHeight;
+  }
+});
+
+function initImageViewer(win){
+  const canvas = win.querySelector('canvas');
+  const ctx = canvas.getContext('2d');
+  const w = canvas.width, h = canvas.height;
+
+  let seed = 42;
+  function rand(){ seed = (seed * 9301 + 49297) % 233280; return seed / 233280; }
+
+  ctx.fillStyle = '#050607';
+  ctx.fillRect(0, 0, w, h);
+  for(let x=0; x<w; x+=4){
+    const v = 20 + Math.floor(rand()*30);
+    ctx.fillStyle = `rgb(${v},${v+4},${v+6})`;
+    ctx.fillRect(x, 0, 4, h);
+  }
+  ctx.strokeStyle = 'rgba(198,161,91,0.25)';
+  ctx.beginPath();
+  ctx.arc(w/2, h/2, 40, 0, Math.PI*2);
+  ctx.stroke();
+  ctx.beginPath();
+  ctx.moveTo(0, h/2); ctx.lineTo(w, h/2);
+  ctx.moveTo(w/2, 0); ctx.lineTo(w/2, h);
+  ctx.stroke();
+
+  const message = CONFIG.puzzle.stegoPayload;
+  const imgData = ctx.getImageData(0, 0, w, h);
+  let bitIndex = 0;
+  outer:
+  for(let c=0; c<message.length; c++){
+    const code = message.charCodeAt(c);
+    for(let b=7; b>=0; b--){
+      const bit = (code >> b) & 1;
+      const pixelIndex = bitIndex * 4;
+      if(pixelIndex >= imgData.data.length) break outer;
+      imgData.data[pixelIndex] = (imgData.data[pixelIndex] & 0xFE) | bit;
+      bitIndex++;
+    }
+  }
+  ctx.putImageData(imgData, 0, 0);
+
+  const btn = win.querySelector('.imgview-btn');
+  const result = win.querySelector('.imgview-result');
+  btn.addEventListener('click', ()=>{
+    const data = ctx.getImageData(0, 0, w, h).data;
+    let bits = '';
+    for(let i=0; i<message.length*8; i++){
+      bits += (data[i*4] & 1);
+    }
+    let decoded = '';
+    for(let i=0; i<bits.length; i+=8){
+      decoded += String.fromCharCode(parseInt(bits.substr(i,8), 2));
+    }
+    result.textContent = `LSB ANOMALY DECODED: "${decoded}"`;
+    result.classList.add('revealed');
+  });
+}
+
+let typedBuffer = '';
+
+function initRecon(win){
+  const canvas = win.querySelector('.recon-canvas');
+  const ctx = canvas.getContext('2d');
+  const word = CONFIG.puzzle.visualWord;
+  const dotIndex = CONFIG.puzzle.visualDotIndex;
+  const tileW = 40, tileH = 40, gap = 8;
+  const startX = (canvas.width - (word.length * tileW + (word.length-1) * gap)) / 2;
+  const y = 46;
+
+  ctx.fillStyle = '#0c0e12';
+  ctx.fillRect(0,0,canvas.width,canvas.height);
+
+  for(let i=0;i<word.length;i++){
+    const x = startX + i * (tileW + gap);
+    ctx.strokeStyle = '#21242c';
+    ctx.lineWidth = 1;
+    ctx.strokeRect(x, y, tileW, tileH);
+    ctx.fillStyle = '#9a9a93';
+    ctx.font = '16px monospace';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillText(word[i], x + tileW/2, y + tileH/2);
+
+    if(i === dotIndex - 1){
+      ctx.fillStyle = '#c6a15b';
+      const dotY = y - 14;
+      for(let d=0; d<dotIndex; d++){
+        ctx.beginPath();
+        ctx.arc(x + 8 + d*10, dotY, 2.5, 0, Math.PI*2);
+        ctx.fill();
+      }
+    }
+  }
+}
+
+function initPaint(win){
+  const canvas = win.querySelector('.paint-canvas');
+  const ctx = canvas.getContext('2d');
+  ctx.fillStyle = '#0c0e12';
+  ctx.fillRect(0,0,canvas.width,canvas.height);
+
+  const colors = ['#ecebe6','#c6a15b','#6cc491','#c15b50','#5a7fae','#9a9a93'];
+  const swatchHolder = win.querySelector('.paint-swatches');
+  let currentColor = colors[0];
+  let currentSize = 5;
+  colors.forEach((c,i)=>{
+    const sw = document.createElement('div');
+    sw.className = 'paint-swatch' + (i===0 ? ' active' : '');
+    sw.style.background = c;
+    sw.addEventListener('click', ()=>{
+      swatchHolder.querySelectorAll('.paint-swatch').forEach(s=>s.classList.remove('active'));
+      sw.classList.add('active');
+      currentColor = c;
+    });
+    swatchHolder.appendChild(sw);
+  });
+
+  win.querySelectorAll('.paint-size-btn').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      win.querySelectorAll('.paint-size-btn').forEach(b=>b.classList.remove('active'));
+      btn.classList.add('active');
+      currentSize = parseInt(btn.dataset.size, 10);
+    });
+  });
+  win.querySelector('.paint-clear-btn').addEventListener('click', ()=>{
+    ctx.fillStyle = '#0c0e12';
+    ctx.fillRect(0,0,canvas.width,canvas.height);
+  });
+
+  let drawing = false;
+  function pos(e){
+    const rect = canvas.getBoundingClientRect();
+    const cx = (e.touches ? e.touches[0].clientX : e.clientX) - rect.left;
+    const cy = (e.touches ? e.touches[0].clientY : e.clientY) - rect.top;
+    return { x: cx * (canvas.width/rect.width), y: cy * (canvas.height/rect.height) };
+  }
+  function start(e){ drawing = true; draw(e); }
+  function stop(){ drawing = false; ctx.beginPath(); }
+  function draw(e){
+    if(!drawing) return;
+    const p = pos(e);
+    ctx.lineWidth = currentSize;
+    ctx.lineCap = 'round';
+    ctx.strokeStyle = currentColor;
+    ctx.lineTo(p.x, p.y);
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(p.x, p.y);
+    e.preventDefault();
+  }
+  canvas.addEventListener('mousedown', start);
+  canvas.addEventListener('mousemove', draw);
+  window.addEventListener('mouseup', stop);
+  canvas.addEventListener('touchstart', start, {passive:false});
+  canvas.addEventListener('touchmove', draw, {passive:false});
+  canvas.addEventListener('touchend', stop);
+}
+
+const snakeGames = {};
+let activeSnakeId = null;
+
+function initSnake(win, winId){
+  const canvas = win.querySelector('.snake-canvas');
+  const ctx = canvas.getContext('2d');
+  const scoreEl = win.querySelector('.snake-score');
+  const statusEl = win.querySelector('.snake-status');
+  const cell = 12;
+  const cols = canvas.width / cell;
+  const rows = canvas.height / cell;
+
+  const state = {
+    snake: [{x:7,y:7},{x:6,y:7},{x:5,y:7}],
+    dir: {x:1,y:0},
+    nextDir: {x:1,y:0},
+    food: {x:10,y:10},
+    running: false,
+    over: false,
+    score: 0,
+    interval: null
+  };
+  snakeGames[winId] = state;
+
+  function placeFood(){
+    state.food = { x: Math.floor(Math.random()*cols), y: Math.floor(Math.random()*rows) };
+  }
+  function draw(){
+    ctx.fillStyle = '#0c0e12';
+    ctx.fillRect(0,0,canvas.width,canvas.height);
+    ctx.fillStyle = '#c15b50';
+    ctx.fillRect(state.food.x*cell, state.food.y*cell, cell-1, cell-1);
+    ctx.fillStyle = '#6cc491';
+    state.snake.forEach((s,i)=>{
+      ctx.fillStyle = i===0 ? '#e6c583' : '#6cc491';
+      ctx.fillRect(s.x*cell, s.y*cell, cell-1, cell-1);
+    });
+  }
+  function tick(){
+    state.dir = state.nextDir;
+    const head = { x: state.snake[0].x + state.dir.x, y: state.snake[0].y + state.dir.y };
+    if(head.x < 0 || head.y < 0 || head.x >= cols || head.y >= rows || state.snake.some(s=> s.x===head.x && s.y===head.y)){
+      state.running = false;
+      state.over = true;
+      clearInterval(state.interval);
+      statusEl.textContent = 'GAME OVER — SPACE TO RESTART';
+      return;
+    }
+    state.snake.unshift(head);
+    if(head.x === state.food.x && head.y === state.food.y){
+      state.score++;
+      scoreEl.textContent = state.score;
+      placeFood();
+    } else {
+      state.snake.pop();
+    }
+    draw();
+  }
+  function startGame(){
+    if(state.running) return;
+    state.snake = [{x:7,y:7},{x:6,y:7},{x:5,y:7}];
+    state.dir = {x:1,y:0}; state.nextDir = {x:1,y:0};
+    state.score = 0; scoreEl.textContent = 0;
+    state.over = false; state.running = true;
+    placeFood();
+    statusEl.textContent = 'ARROW KEYS TO STEER';
+    clearInterval(state.interval);
+    state.interval = setInterval(tick, 130);
+  }
+  draw();
+
+  win.addEventListener('mousedown', ()=> activeSnakeId = winId);
+  win.addEventListener('touchstart', ()=> activeSnakeId = winId);
+  activeSnakeId = winId;
+  state.start = startGame;
+
+  win.querySelector('.win-close').addEventListener('click', ()=>{
+    clearInterval(state.interval);
+    delete snakeGames[winId];
+    if(activeSnakeId === winId) activeSnakeId = null;
+  });
+}
+
+function initCalc(win){
+  const display = win.querySelector('.calc-display');
+  let current = '0';
+  let stored = null;
+  let pendingOp = null;
+  let freshEntry = true;
+
+  function render(){ display.textContent = current; }
+  function applyOp(){
+    if(stored === null || pendingOp === null) return;
+    const a = parseFloat(stored), b = parseFloat(current);
+    let r = b;
+    if(pendingOp === '+') r = a + b;
+    if(pendingOp === '-') r = a - b;
+    if(pendingOp === '*') r = a * b;
+    if(pendingOp === '/') r = b === 0 ? 0 : a / b;
+    current = String(Math.round(r * 1e8) / 1e8);
+  }
+
+  win.querySelectorAll('.calc-key').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      const k = btn.dataset.key;
+      if(k === '='){
+        applyOp();
+        stored = null; pendingOp = null; freshEntry = true;
+      } else if(['+','-','*','/'].includes(k)){
+        if(stored !== null && pendingOp !== null && !freshEntry) applyOp();
+        stored = current;
+        pendingOp = k;
+        freshEntry = true;
+      } else if(k === '.'){
+        if(freshEntry){ current = '0.'; freshEntry = false; }
+        else if(!current.includes('.')) current += '.';
+      } else {
+        if(freshEntry || current === '0'){ current = k; freshEntry = false; }
+        else current += k;
+      }
+      render();
+    });
+  });
+  win.querySelector('.calc-clear').addEventListener('click', ()=>{
+    current = '0'; stored = null; pendingOp = null; freshEntry = true;
+    render();
+  });
+}
+
+document.addEventListener('keydown', (e)=>{
+  if(activeSnakeId && snakeGames[activeSnakeId]){
+    const state = snakeGames[activeSnakeId];
+    const tag = document.activeElement && document.activeElement.tagName;
+    if(tag !== 'INPUT' && tag !== 'TEXTAREA'){
+      if(e.key === ' '){ if(!state.running) state.start(); e.preventDefault(); }
+      if(e.key === 'ArrowUp' && state.dir.y === 0){ state.nextDir = {x:0,y:-1}; e.preventDefault(); }
+      if(e.key === 'ArrowDown' && state.dir.y === 0){ state.nextDir = {x:0,y:1}; e.preventDefault(); }
+      if(e.key === 'ArrowLeft' && state.dir.x === 0){ state.nextDir = {x:-1,y:0}; e.preventDefault(); }
+      if(e.key === 'ArrowRight' && state.dir.x === 0){ state.nextDir = {x:1,y:0}; e.preventDefault(); }
+    }
+  }
+});
+
+document.addEventListener('keydown', (e)=>{
+  const tag = document.activeElement && document.activeElement.tagName;
+  if(tag === 'INPUT' || tag === 'TEXTAREA') return;
+  if(e.key.length === 1){
+    typedBuffer = (typedBuffer + e.key.toUpperCase()).slice(-20);
+    if(typedBuffer.includes(CONFIG.puzzle.keyword)){
+      revealHiddenIcon('imgview');
+      typedBuffer = '';
+    }
+  }
+});
+
+function triggerFinale(){
+  if(puzzleSolved) return;
+  puzzleSolved = true;
+  finaleFlash.classList.add('play');
+  setTimeout(()=> finaleFlash.classList.remove('play'), 1200);
+  setTimeout(openDossier, 500);
+}
+
+let archiveOpened = false;
+function openArchiveWindow(){
+  if(archiveOpened) return;
+  archiveOpened = true;
+  const win = document.createElement('div');
+  win.className = 'app-window';
+  win.style.width = '360px';
+  win.style.height = '240px';
+  win.style.left = '120px';
+  win.style.top = '110px';
+  win.style.zIndex = ++zCounter;
+  win.innerHTML = `
+    <div class="win-titlebar">
+      <span class="win-title-text">ARCHIVE_INDEX.TXT</span>
+      <div class="win-controls"><span class="win-close" title="Close">×</span></div>
+    </div>
+    <div class="win-body" style="padding:16px; font-family:var(--font-mono); font-size:12px; line-height:1.8; white-space:pre-line;">${escapeHtml(CONFIG.puzzle.archiveNote)}</div>
+    <div class="resize-handle" title="Resize"></div>
+  `;
+  win.querySelector('.win-close').addEventListener('click', ()=> win.remove());
+  makeDraggable(win, win.querySelector('.win-titlebar'));
+  makeResizable(win, win.querySelector('.resize-handle'), 260, 160);
+  windowsLayer.appendChild(win);
+}
+
+function openDossier(){
+  const win = document.createElement('div');
+  win.className = 'app-window';
+  win.style.width = '360px';
+  win.style.height = '340px';
+  win.style.left = '50%';
+  win.style.top = '50%';
+  win.style.transform = 'translate(-50%,-50%)';
+  win.style.zIndex = ++zCounter;
+
+  win.innerHTML = `
+    <div class="win-titlebar">
+      <span class="win-title-text">CASE FILE — CLOSED</span>
+      <div class="win-controls"><span class="win-close" title="Close">×</span></div>
+    </div>
+    <div class="win-body" style="overflow:auto;">
+      <div class="dossier-body">
+        <svg class="dossier-seal" width="70" height="70" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="46" fill="none" stroke="#6cc491" stroke-width="2"/>
+          <circle cx="50" cy="50" r="34" fill="none" stroke="#6cc491" stroke-width="1"/>
+          <path d="M50,26 L56,42 L74,42 L59,52 L65,70 L50,59 L35,70 L41,52 L26,42 L44,42 Z" fill="#6cc491"/>
+        </svg>
+        <div class="dossier-title">CLEARANCE ELEVATED</div>
+        <div class="dossier-sub">CASE NIGHTSHADE — RESOLVED</div>
+        <div class="dossier-line">Ten stations cross-referenced and decoded.</div>
+        <div class="dossier-line">Index cipher resolved into a single credential.</div>
+        <div class="dossier-line" style="margin-top:14px;color:#6cc491;">All layers decrypted. Session complete.</div>
+      </div>
+    </div>
+  `;
+  win.querySelector('.win-close').addEventListener('click', ()=> win.remove());
+  makeDraggable(win, win.querySelector('.win-titlebar'));
+  windowsLayer.appendChild(win);
+}
+
+sealScreen.addEventListener('click', startSequence);
+
+document.getElementById('reset-btn').addEventListener('click', ()=>{
+  sequenceRunning = false;
+  puzzleSolved = false;
+  archiveOpened = false;
+  typedBuffer = '';
+  Object.keys(snakeGames).forEach(id=>{ clearInterval(snakeGames[id].interval); delete snakeGames[id]; });
+  activeSnakeId = null;
+  CONFIG.icons.forEach(ic=>{ if(ic.app === 'imgview') ic.hidden = true; });
+  desktop.classList.remove('show','visible');
+  bootScreen.classList.remove('show');
+  windowsLayer.innerHTML = '';
+  taskbarApps.innerHTML = '';
+  Object.keys(openWindows).forEach(k=> delete openWindows[k]);
+  sealScreen.classList.remove('glitching');
+  sealScreen.style.display = 'flex';
+  requestAnimationFrame(()=> sealScreen.classList.remove('hidden'));
+});
