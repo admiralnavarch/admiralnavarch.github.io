@@ -3,8 +3,7 @@ const CONFIG = {
     title: "SECURE ACCESS TERMINAL",
     subtitle: "CLASSIFICATION: TOP SECRET // NOFORN",
     hint: "CLICK TO AUTHENTICATE",
-    warning: "UNAUTHORIZED ACCESS IS A FEDERAL OFFENSE",
-    starCount: 13
+    warning: "UNAUTHORIZED ACCESS IS A FEDERAL OFFENSE"
   },
 
   bootLines: [
@@ -131,22 +130,6 @@ let sequenceRunning = false;
 let zCounter = 100;
 let openWindowCount = 0;
 let puzzleSolved = false;
-
-(function drawStarRing(){
-  const g = document.getElementById('star-ring');
-  const n = CONFIG.seal.starCount;
-  const r = 82;
-  for(let i=0;i<n;i++){
-    const angle = (i / n) * Math.PI * 2 - Math.PI/2;
-    const cx = 120 + r * Math.cos(angle);
-    const cy = 120 + r * Math.sin(angle);
-    const c = document.createElementNS('http://www.w3.org/2000/svg','circle');
-    c.setAttribute('cx', cx.toFixed(2));
-    c.setAttribute('cy', cy.toFixed(2));
-    c.setAttribute('r', 1.6);
-    g.appendChild(c);
-  }
-})();
 
 function startSequence(){
   if(sequenceRunning) return;
@@ -595,7 +578,7 @@ function runCommand(raw, cmdBody, win){
     if(!code) return { text: "USAGE: AUTHENTICATE <code>", cls: "err" };
     if(code === CONFIG.puzzle.passphrase){
       triggerFinale();
-      return { text: "ACCESS GRANTED. WELCOME BACK.", cls: "ok" };
+      return { text: "ACCESS GRANTED. WELCOME BACK.\nOPERATIONS CHANNEL: https://discord.gg/cxKEXRqNza", cls: "ok" };
     }
     return { text: "ACCESS DENIED — CREDENTIALS NOT RECOGNIZED.", cls: "err" };
   }
@@ -989,7 +972,7 @@ function openDossier(){
   const win = document.createElement('div');
   win.className = 'app-window';
   win.style.width = '360px';
-  win.style.height = '340px';
+  win.style.height = '380px';
   win.style.left = '50%';
   win.style.top = '50%';
   win.style.transform = 'translate(-50%,-50%)';
@@ -1012,6 +995,7 @@ function openDossier(){
         <div class="dossier-line">Ten stations cross-referenced and decoded.</div>
         <div class="dossier-line">Index cipher resolved into a single credential.</div>
         <div class="dossier-line" style="margin-top:14px;color:#6cc491;">All layers decrypted. Session complete.</div>
+        <a class="dossier-discord" href="https://discord.gg/cxKEXRqNza" target="_blank" rel="noopener noreferrer">JOIN THE OPERATIONS CHANNEL ↗</a>
       </div>
     </div>
   `;
